@@ -20,6 +20,12 @@ I use AI coding tools to build and test prototypes—and document what works, wh
 
 Product cases, practical tools, and reusable methods. Cards link to the work and its current stage.
 
+<!-- fanxiaoyi-cover:start -->
+<a href="https://github.com/EveEveeee/fanxiaoyi">
+  <img src="https://raw.githubusercontent.com/EveEveeee/fanxiaoyi/fanxiaoyi/docs/images/hero-banner.png" alt="翻小译｜macOS 中英文翻译工具" width="100%">
+</a>
+<!-- fanxiaoyi-cover:end -->
+
 <a href="https://github.com/EveEveeee/product-foundry">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects/product-foundry-dark.svg">
