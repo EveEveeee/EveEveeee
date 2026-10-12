@@ -49,7 +49,7 @@ def main():
     serialized = json.dumps(data, ensure_ascii=False, indent=2) + '\n'
     (archive / f"{data['updatedAt']}.json").write_text(serialized)
     readme = ROOT / 'README.md'
-    content = md(data, '## 🗞️ 每日 AI 资讯') + '\n\n[查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)'
+    content = md(data, '## 📰 每日 AI 资讯') + '\n\n[查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)'
     readme.write_text(replace_region(readme.read_text(), START, END, content))
     days = []
     for path in sorted(archive.glob('*.json'), reverse=True):
