@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Eve's portfolio terminal</title>
+  <desc id="desc">AI product manager. Explore product cases, reusable skills, and writing at wangyangjuan.surge.sh.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+    .title { fill: #e6edf3; font-size: 18px; font-weight: 600; }
+    .body { fill: #919ba7; font-size: 17px; }
+    .prompt { fill: #58a6ff; font-size: 17px; }
+    .ok { fill: #3fb950; font-size: 17px; }
+    .cursor { animation: blink 1.15s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="998" height="518" rx="18" fill="#101820" stroke="#30363d" stroke-width="2"/>
+  <path d="M19 2H981Q998 2 998 19V53H2V19Q2 2 19 2Z" fill="#161b22"/>
+  <path d="M2 53H998" stroke="#30363d"/>
+  <circle cx="24" cy="27" r="7" fill="#ff5f57"/><circle cx="47" cy="27" r="7" fill="#febc2e"/><circle cx="70" cy="27" r="7" fill="#28c840"/>
+  <text x="500" y="31" text-anchor="middle" fill="#919ba7" font-size="12">eve@portfolio: ~</text>
+  <text x="54" y="93" class="title">EVE / AI PRODUCT MANAGER</text>
+  <text x="54" y="132" class="ok">[OK]</text><text x="115" y="132" class="body">Load product thinking and real-world questions</text>
+  <text x="54" y="163" class="ok">[OK]</text><text x="115" y="163" class="body">Mount product cases, prototypes, and evaluations</text>
+  <text x="54" y="194" class="ok">[OK]</text><text x="115" y="194" class="body">Connect reusable skills and writing</text>
+  <text x="54" y="225" class="ok">[OK]</text><text x="115" y="225" class="body">Keep evidence, limits, and next steps visible</text>
+  <text x="54" y="275" class="prompt">eve@portfolio:~$ whoami</text>
+  <text x="54" y="307" class="body">A product manager turning AI ideas into testable experiences.</text>
+  <text x="54" y="355" class="prompt">eve@portfolio:~$ open https://wangyangjuan.surge.sh</text>
+  <rect class="cursor" x="586" y="340" width="10" height="20" fill="#58a6ff"/>
+  <text x="54" y="397" class="ok">Ready. Explore the work behind the ideas.</text>
+  <text x="500" y="457" text-anchor="middle" class="title">Click to open my personal website</text>
+  <text x="500" y="487" text-anchor="middle" fill="#58a6ff" font-size="22">↗</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="210" viewBox="0 0 620 210" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-led Teardown</title>
+  <desc id="desc">Read the evidence before drawing conclusions. Trace users, technology, models, and data. Turn findings into a traceable HTML report. Reusable skill</desc>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect x=".75" y=".75" width="618.5" height="208.5" rx="9" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.5"/>
+  <g transform="translate(24 25)" fill="none" stroke="#59636e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 0h13v20H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3Z"/><path d="M0 16h16M5 4v7M9 4v7"/></g>
+  <text x="56" y="43" fill="#0969da" font-size="22" font-weight="600">Evidence-led Teardown</text>
+  <rect x="530" y="23" width="66" height="26" rx="13" fill="none" stroke="#d1d9e0"/>
+  <text x="563" y="41" text-anchor="middle" fill="#59636e" font-size="14" font-weight="500">Public</text>
+  <text x="24" y="81" fill="#59636e" font-size="18">Read the evidence before drawing conclusions.</text>
+  <text x="24" y="108" fill="#59636e" font-size="18">Trace users, technology, models, and data.</text>
+  <text x="24" y="135" fill="#59636e" font-size="18">Turn findings into a traceable HTML report.</text>
+  <circle cx="30" cy="175" r="6" fill="#3fb950"/>
+  <text x="44" y="180" fill="#59636e" font-size="15">Product research</text>
+  <text x="596" y="180" text-anchor="end" fill="#59636e" font-size="15">Reusable skill</text>
+</svg>
