@@ -16,9 +16,9 @@ I use AI coding tools to build and test prototypes—and document what works, wh
 
 🌐 [Personal website](https://wangyangjuan.surge.sh/) · ✍️ [WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzcwNzQzMDkxMw==&scene=124#wechat_redirect) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/634fb9e1000000001802b00f) · ✉️ [Email](mailto:wangyangjuanwyj@gmail.com)
 
-## ⭐ Selected work
+## ⭐ 精选项目
 
-Product cases, practical tools, and reusable methods. Cards link to the work and its current stage.
+产品案例、实用工具与可复用方法。点击封面，查看项目与当前进展。
 
 <!-- fanxiaoyi-cover:start -->
 <a href="https://github.com/EveEveeee/fanxiaoyi">
@@ -27,54 +27,30 @@ Product cases, practical tools, and reusable methods. Cards link to the work and
 <!-- fanxiaoyi-cover:end -->
 
 <a href="https://github.com/EveEveeee/product-foundry">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/product-foundry-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/product-foundry-light.svg">
-  <img src="assets/projects/product-foundry-light.svg" alt="Product Foundry — Prototype + POC" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/product-foundry.png" alt="产品工坊｜把想法，变成可验证的方案｜产品工作流 · 原型与概念验证" width="49%">
 </a>
 
 <a href="https://github.com/EveEveeee/muse10-ai-nails">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/muse10-ai-nails-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/muse10-ai-nails-light.svg">
-  <img src="assets/projects/muse10-ai-nails-light.svg" alt="Muse10 · AI Nails — Prototype + POC" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/muse10-ai-nails.png" alt="智能美甲共创｜让美甲灵感，落在十指上｜美甲共创 · 原型与概念验证" width="49%">
 </a>
 
 <a href="https://github.com/EveEveeee/child-knowledge-cocreation">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/child-knowledge-cocreation-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/child-knowledge-cocreation-light.svg">
-  <img src="assets/projects/child-knowledge-cocreation-light.svg" alt="Child-led Co-creation — Local prototype" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/child-knowledge-cocreation.png" alt="儿童故事共创｜故事怎么走，让孩子来选｜儿童共创 · 本地原型" width="49%">
 </a>
 
 <a href="https://github.com/EveEveeee/Eve/tree/main/skills/evidence-led-product-teardown">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/evidence-led-teardown-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/evidence-led-teardown-light.svg">
-  <img src="assets/projects/evidence-led-teardown-light.svg" alt="Evidence-led Teardown — Reusable skill" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/evidence-led-teardown.png" alt="循证产品拆解｜先看证据，再拆解产品｜产品研究 · 可复用技能" width="49%">
 </a>
 
 <a href="https://github.com/EveEveeee/Eve/tree/main/skills/muse10-nail-visuals">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/muse10-nail-visuals-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/muse10-nail-visuals-light.svg">
-  <img src="assets/projects/muse10-nail-visuals-light.svg" alt="Muse10 Nail Visuals — Reusable skill" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/muse10-nail-visuals.png" alt="十指美甲视觉｜让十指设计，成为一套作品｜视觉工作流 · 可复用技能" width="49%">
 </a>
 
 <a href="CONTRIBUTIONS.md">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/open-source-reviews-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects/open-source-reviews-light.svg">
-  <img src="assets/projects/open-source-reviews-light.svg" alt="Open-source Reviews — Reports + analysis" width="49%">
-</picture>
+  <img src="assets/projects/illustrated/open-source-reviews.png" alt="开源项目审阅｜让代码审阅，有据可查｜开源实践 · 报告与分析" width="49%">
 </a>
 
-[Explore all projects →](PROJECTS.md) · [Open-source contributions →](CONTRIBUTIONS.md)
+[查看全部项目 →](PROJECTS.md) · [查看开源贡献 →](CONTRIBUTIONS.md)
 
 ## 🔎 Currently exploring
 

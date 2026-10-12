@@ -1,0 +1,20 @@
+Use case: ads-marketing.
+Asset type: GitHub profile project card cover, part of a coherent seven-cover illustration series.
+Primary request: Generate ONE finished panoramic cover for the specified project. Match the existing Fan Xiaoyi reference cover's premium plush character, inviting cream canvas, thin rounded rectangular outline, large left-side Chinese typography, soft felt scenery and uncluttered right-side vignette. It must be suitable for a small 49%-width GitHub card, rather than a standalone large hero.
+
+Input roles: Image 1 is the existing Fan Xiaoyi cover, used for visual style, typography scale, layout, material, and exact female IP identity. Image 2 is the same character's square portrait, used as a supporting identity reference. Neither image is an edit target. Retain the woman's recognizable large brown eyes and sweet face, long dark-brown hair, brown felt cap with black sunglasses perched on top, pale-pink cardigan, black inner top, blue jeans, white shoes. One character only, premium stylized 3D plush/felt doll; not a real photographic person.
+
+Composition: exactly 12:5 panoramic landscape (the reference is 1942 x 809). Match the reference outer margins and border placement: 2% side margins, 7% top and bottom margins, a single thin deep-colored rounded rectangle. The border's color follows the project accent but stays dark enough. Left 48% has ONLY three lines of clearly readable Chinese text; right 45% contains the distinct action specified for this project. Match the reference's title and tagline sizes and left alignment. Keep the illustration entirely inside the canvas. Generous negative space. The cream opaque background is consistent across the series, with very subtle tinted plush scenery near the bottom. Soft natural shadows, fine felt fibers, inviting warm light. Tiny matching decorative marks are allowed, but keep focus on the character and the project's meaningful props.
+
+Text: render the project's title, tagline and detail VERBATIM, in that order. Title: very large bold rounded Chinese characters in a deep muted version of the accent color. Tagline: medium bold, comfortably readable. Detail: small clear Chinese text. Use a short hand-drawn accent underline under the title. No text beyond the exact three lines. No English, watermark, badge, UI chrome, authorship claim or screenshot frame. All Chinese glyphs must be accurate; prevent missing strokes, broken characters or duplicated text.
+
+Constraints: preserve the same character identity, outfit and plush rendering family. Change the action and props for each project. Do NOT repeat the hugging pose or purple cloud app icon from Fan Xiaoyi. No extra fingers, merged limbs, duplicated characters or random props. Keep hands anatomically plausible. Full opaque background; no transparency or checkerboard. Return a single complete banner, not a contact sheet.
+
+
+Project title (verbatim): 产品工坊
+Project tagline (verbatim): 把想法，变成可验证的方案
+Project detail (verbatim): 产品工作流 · 原型与概念验证
+Project accent: soft lavender and periwinkle
+Distinct project action: The same woman is standing at a tiny rounded design desk, placing a pastel sticky-note card on a small board with one hand and holding a pencil with the other. Small felt building blocks and a notebook on the desk illustrate product planning. She looks friendly and focused. No app icon or cushion being hugged.
+Render text as three separate lines, using exactly these strings: "产品工坊", "把想法，变成可验证的方案", "产品工作流 · 原型与概念验证".
+
