@@ -22,7 +22,7 @@ Product cases, practical tools, and reusable methods. Cards link to the work and
 
 <!-- fanxiaoyi-cover:start -->
 <a href="https://github.com/EveEveeee/fanxiaoyi">
-  <img src="https://raw.githubusercontent.com/EveEveeee/fanxiaoyi/fanxiaoyi/docs/images/hero-banner.png" alt="翻小译｜macOS 中英文翻译工具" width="100%">
+  <img src="https://raw.githubusercontent.com/EveEveeee/fanxiaoyi/fanxiaoyi/docs/images/hero-banner.png" alt="翻小译｜macOS 中英文翻译工具" width="49%">
 </a>
 <!-- fanxiaoyi-cover:end -->
 
