@@ -4,11 +4,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-launch-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-launch-light.svg">
-  <img src="assets/portfolio-launch-light.svg" alt="Eve's portfolio terminal — click to explore my personal website" width="100%">
+  <img src="assets/portfolio-launch-light.svg" alt="Eve 的个人网站终端｜AI 产品经理｜点击进入我的个人网站" width="100%">
 </picture>
 </a>
 
-<p align="center"><sub>Click the terminal to explore my personal website · wangyangjuan.surge.sh</sub></p>
+<p align="center"><sub>点击终端，进入我的个人网站 · wangyangjuan.surge.sh</sub></p>
 
 I explore how AI can move from impressive demos to useful, trustworthy products.  
 My work spans product discovery, workflow design, prompt iteration, and task-based evaluation.  
