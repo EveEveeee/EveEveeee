@@ -1,0 +1,189 @@
+{
+  "format": "standalone SVG with unchanged embedded PNG",
+  "size": {
+    "width": 1942,
+    "height": 950
+  },
+  "classification": {
+    "产品": 4,
+    "技能": 2,
+    "文档": 1
+  },
+  "cards": [
+    {
+      "id": "fanxiaoyi",
+      "title": "翻小译",
+      "category": "产品",
+      "file": "fanxiaoyi.svg",
+      "source": "../illustrated/fanxiaoyi.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "f5fcee8e0228838636000ae9b40f3c2da77a82de08e14efbf6b2fedbda78533d",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2437513,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "product-foundry",
+      "title": "产品工坊",
+      "category": "产品",
+      "file": "product-foundry.svg",
+      "source": "../illustrated/product-foundry.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "1cb0dad5a7525e8ada3e6d70ba57cdca35133b7d3d13b525402179063207c49a",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2513660,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "muse10-ai-nails",
+      "title": "智能美甲共创",
+      "category": "产品",
+      "file": "muse10-ai-nails.svg",
+      "source": "../illustrated/muse10-ai-nails.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "75faa41188416e5876e73d4c64ab593cef31d4304541d37d689c1a4c1170078a",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2472834,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "child-knowledge-cocreation",
+      "title": "儿童故事共创",
+      "category": "产品",
+      "file": "child-knowledge-cocreation.svg",
+      "source": "../illustrated/child-knowledge-cocreation.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "7056bcd894b515d7f37f85d32384e7eb4bf018d2b370f0752742bdb806532c6e",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2477870,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "evidence-led-teardown",
+      "title": "循证产品拆解",
+      "category": "技能",
+      "file": "evidence-led-teardown.svg",
+      "source": "../illustrated/evidence-led-teardown.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "d709c83355199f03899ff9441b025986693c9c94aefe905b0e60fc8ef3fc69f4",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2595983,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "muse10-nail-visuals",
+      "title": "十指美甲视觉",
+      "category": "技能",
+      "file": "muse10-nail-visuals.svg",
+      "source": "../illustrated/muse10-nail-visuals.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "c97ec32b32e5f12a9ec14214449b2874dea816f05a57adbdcd927874471657f5",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2417171,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    },
+    {
+      "id": "open-source-reviews",
+      "title": "开源项目审阅",
+      "category": "文档",
+      "file": "open-source-reviews.svg",
+      "source": "../illustrated/open-source-reviews.png",
+      "source_size": {
+        "width": 1942,
+        "height": 809
+      },
+      "source_sha256": "3bde8086e7c671d95298d8de0086ab97ecc4ead5fa538fdeba89e6911cd57151",
+      "image_box": {
+        "x": 36,
+        "y": 148,
+        "width": 1870,
+        "height": 779.0061791967045
+      },
+      "svg_bytes": 2334833,
+      "validated": {
+        "xml": true,
+        "original_png_unchanged": true,
+        "embedded_png_exact": true,
+        "header_separate": true
+      }
+    }
+  ]
+}
