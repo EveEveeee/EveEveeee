@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-14
+
+整理日期：**2026-10-14** · 关注 AI 产品、模型与工具动态。
+
+- **Gemini 4 Argon 进入 Gemini 应用**（事件日期：2026-10-13）
+  Google AI Pro 和 Ultra 订阅者现可在 Gemini 应用使用 Argon；新增聊天与任务模式切换，连接超过 40 个应用，macOS 版还集成了 Antigravity 智能体编程界面。 [查看Google 官方公告原文](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/)
+
+- **Google Play 支持在个人设备运行 AI 自建应用**（事件日期：2026-10-13）
+  用户可用 Google AI Studio 创建 Android 应用，并通过 Google Play 在自己设备私下运行，无需开发者账号。功能开始向包括美国在内的部分市场、18 岁及以上用户推出；亲友分享仍在后续计划中。 [查看Google 官方公告原文](https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/)
+
+- **Liquid AI 开放设备端智能体模型 LFM2.5-24B-A2B**（事件日期：2026-10-13）
+  新推理模型总参数 240 亿，每个 token 激活约 20 亿，支持工具调用与多步任务；基础模型和推理模型权重已开放，首日支持 llama.cpp、MLX 和 vLLM 等运行环境。 [查看Liquid AI 官方公告原文](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+
+- **NVIDIA 开源完整 Run:ai 平台**（事件日期：2026-10-13）
+  NVIDIA 将 Run:ai 平台作为 DSX AI Factory 的开源基础，覆盖 GPU 调度、共享、组织配额和工作负载管理。团队可采用完整平台，也可独立集成四个模块，管理训练与推理等 AI 任务。 [查看NVIDIA 官方技术博客原文](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
+
+- **Microsoft 365 Copilot 引入推理时信任控制**（事件日期：2026-10-13）
+  微软介绍区分可信与不可信内容的新控制，将外部邮件等先交给受限的隔离处理路径，再向主模型传递带来源标记的结果，以降低提示注入风险；初期范围与可用性取决于相关配置和租户。 [查看微软官方技术社区原文](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/building-trust-aware-controls-for-ai-differentiated-handling-of-untrusted-conten/4562160)
+
 ## 2026-10-13
 
 整理日期：**2026-10-13** · 关注 AI 产品、模型与工具动态。
