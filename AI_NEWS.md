@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-15
+
+整理日期：**2026-10-15** · 关注 AI 产品、模型与工具动态。
+
+- **Google 向公众开放 Deep Review 文档审查**（事件日期：2026-10-14）
+  新工具通过多智能体流程检查复杂文档的逻辑、数学论证和事实依据，首批支持 PDF 与纯文本。每位用户每周可免费审查两份文档，也可连接 Gemini API 提升额度并接入工作流。 [查看Google Research 官方博客原文](https://research.google/blog/analyzing-technical-documents-with-deep-review/)
+
+- **GitHub 为 HydraFusion 增加 Max 多模型协作选项**（事件日期：2026-10-14）
+  Copilot 更新多模型协作流程，按起草与审查阶段调整推理力度，支持并行审查和直接检查工作区。新增 Max 选项面向复杂任务，在 VS Code、Copilot 应用和 CLI 中提供研究预览，受订阅与组织策略限制。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/)
+
+- **OpenAI 公布部分 GPT-4 系列 API 快照停用时间**（事件日期：2026-10-14）
+  部分 GPT-4o、GPT-4o mini、GPT-4.1 和 GPT-4.1 mini 快照将于 2027 年 1 月 14 日停止 API 服务，官方建议迁移至 GPT-6 Luna；对应微调版本遵循相同安排。本次为提前通知，具体受影响快照见原文。 [查看OpenAI 官方弃用公告原文](https://developers.openai.com/api/docs/deprecations)
+
+- **微软预览由 Copilot 和智能体维护的团队知识库**（事件日期：2026-10-14）
+  SharePoint 开始向 Frontier 预览租户推出团队知识库，把成员提交的邮件、消息、会议与文件整理为相互链接的 Markdown，供人员和智能体共同使用。当前需启用按用量计费，Autopilot 集成按独立节奏推出。 [查看微软 SharePoint 官方博客原文](https://techcommunity.microsoft.com/blog/spblog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/4564203)
+
+- **NVIDIA 展示 NeMo Gym 智能体评测实践**（事件日期：2026-10-14）
+  西门子团队通过 NeMo Gym 检查芯片设计智能体的最终产物，再迭代技能和 MCP 工具说明。官方案例报告，在其特定基准中，综合验证得分由约 55% 升至 95%，交互轮次由 155 次降至 53 次。 [查看NVIDIA 官方技术博客原文](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
+
 ## 2026-10-14
 
 整理日期：**2026-10-14** · 关注 AI 产品、模型与工具动态。

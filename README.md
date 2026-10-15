@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-14** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-15** · 关注 AI 产品、模型与工具动态。
 
-- **Gemini 4 Argon 进入 Gemini 应用**（事件日期：2026-10-13）
-  Google AI Pro 和 Ultra 订阅者现可在 Gemini 应用使用 Argon；新增聊天与任务模式切换，连接超过 40 个应用，macOS 版还集成了 Antigravity 智能体编程界面。 [查看Google 官方公告原文](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/)
+- **Google 向公众开放 Deep Review 文档审查**（事件日期：2026-10-14）
+  新工具通过多智能体流程检查复杂文档的逻辑、数学论证和事实依据，首批支持 PDF 与纯文本。每位用户每周可免费审查两份文档，也可连接 Gemini API 提升额度并接入工作流。 [查看Google Research 官方博客原文](https://research.google/blog/analyzing-technical-documents-with-deep-review/)
 
-- **Google Play 支持在个人设备运行 AI 自建应用**（事件日期：2026-10-13）
-  用户可用 Google AI Studio 创建 Android 应用，并通过 Google Play 在自己设备私下运行，无需开发者账号。功能开始向包括美国在内的部分市场、18 岁及以上用户推出；亲友分享仍在后续计划中。 [查看Google 官方公告原文](https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/)
+- **GitHub 为 HydraFusion 增加 Max 多模型协作选项**（事件日期：2026-10-14）
+  Copilot 更新多模型协作流程，按起草与审查阶段调整推理力度，支持并行审查和直接检查工作区。新增 Max 选项面向复杂任务，在 VS Code、Copilot 应用和 CLI 中提供研究预览，受订阅与组织策略限制。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/)
 
-- **Liquid AI 开放设备端智能体模型 LFM2.5-24B-A2B**（事件日期：2026-10-13）
-  新推理模型总参数 240 亿，每个 token 激活约 20 亿，支持工具调用与多步任务；基础模型和推理模型权重已开放，首日支持 llama.cpp、MLX 和 vLLM 等运行环境。 [查看Liquid AI 官方公告原文](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- **OpenAI 公布部分 GPT-4 系列 API 快照停用时间**（事件日期：2026-10-14）
+  部分 GPT-4o、GPT-4o mini、GPT-4.1 和 GPT-4.1 mini 快照将于 2027 年 1 月 14 日停止 API 服务，官方建议迁移至 GPT-6 Luna；对应微调版本遵循相同安排。本次为提前通知，具体受影响快照见原文。 [查看OpenAI 官方弃用公告原文](https://developers.openai.com/api/docs/deprecations)
 
-- **NVIDIA 开源完整 Run:ai 平台**（事件日期：2026-10-13）
-  NVIDIA 将 Run:ai 平台作为 DSX AI Factory 的开源基础，覆盖 GPU 调度、共享、组织配额和工作负载管理。团队可采用完整平台，也可独立集成四个模块，管理训练与推理等 AI 任务。 [查看NVIDIA 官方技术博客原文](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
+- **微软预览由 Copilot 和智能体维护的团队知识库**（事件日期：2026-10-14）
+  SharePoint 开始向 Frontier 预览租户推出团队知识库，把成员提交的邮件、消息、会议与文件整理为相互链接的 Markdown，供人员和智能体共同使用。当前需启用按用量计费，Autopilot 集成按独立节奏推出。 [查看微软 SharePoint 官方博客原文](https://techcommunity.microsoft.com/blog/spblog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/4564203)
 
-- **Microsoft 365 Copilot 引入推理时信任控制**（事件日期：2026-10-13）
-  微软介绍区分可信与不可信内容的新控制，将外部邮件等先交给受限的隔离处理路径，再向主模型传递带来源标记的结果，以降低提示注入风险；初期范围与可用性取决于相关配置和租户。 [查看微软官方技术社区原文](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/building-trust-aware-controls-for-ai-differentiated-handling-of-untrusted-conten/4562160)
+- **NVIDIA 展示 NeMo Gym 智能体评测实践**（事件日期：2026-10-14）
+  西门子团队通过 NeMo Gym 检查芯片设计智能体的最终产物，再迭代技能和 MCP 工具说明。官方案例报告，在其特定基准中，综合验证得分由约 55% 升至 95%，交互轮次由 155 次降至 53 次。 [查看NVIDIA 官方技术博客原文](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
