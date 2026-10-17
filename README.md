@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-16** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-17** · 关注 AI 产品、模型与工具动态。
 
-- **Mistral 发布可在 CPU 运行的 Timestral 时序模型**（事件日期：2026-10-15）
-  Timestral 提供 500 万至 2.09 亿参数的四种规格，可在 CPU 上进行零样本预测，支持多变量概率预测及历史、已知未来协变量。官方已发布运行仓库，企业还可通过 Mistral Forge 用自有数据微调。 [查看Mistral 官方公告原文](https://mistral.ai/news/timestral/)
+- **Beam 开放权重，Ollama Cloud 提供限时免费体验**（事件日期：2026-10-16）
+  Reflection 的 Beam 采用约 5010 亿总参数、230 亿激活参数，支持百万 token 上下文，面向编程、推理和长流程智能体。权重采用 Apache 2.0 许可；Ollama Cloud 已接入并限时免费，可从终端或应用调用，无需下载模型。 [查看Ollama 官方公告原文](https://ollama.com/blog/reflection-beam)
 
-- **NVIDIA 开放 Nemotron 3.5 Super VL 多模态模型**（事件日期：2026-10-15）
-  模型采用 1200 亿总参数、每个 token 激活 120 亿参数的混合专家架构，结合文本、图像、文档和视频理解与工具调用。权重及配套训练数据已开放，开发者可用 NeMo 按企业数据、工具和流程进行定制。 [查看NVIDIA 官方技术博客原文](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
+- **Black Forest Labs 开放 FLUX 3 Image Klein 图像模型**（事件日期：2026-10-15）
+  56 亿参数的图像生成器支持文生图、最多 10 张参考图的生成与编辑，以及边界框布局控制。发布包含基础版、蒸馏版和量化权重，已支持 ComfyUI、Diffusers 及 LoRA 训练；权重采用 FLUX Kommunity License，商用须满足许可条件。 [查看Black Forest Labs 官方公告原文](https://bfl.ai/blog/flux-3-image-klein)
 
-- **GitHub 正式推出代码扫描告警智能体修复**（事件日期：2026-10-15）
-  将默认分支告警分配给 Copilot 后，智能体会检查文件、修复并重跑 CodeQL，再提交草稿 PR 供人工审查；一次可合并处理最多 25 条。功能面向 Enterprise Cloud 的 Code Security 或 Advanced Security 客户，需管理员启用，消耗 AI Credits 和 Actions 分钟。 [查看GitHub 官方公告原文](https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/)
+- **Amp 支持查看并操控 macOS 与 Linux Runner 桌面**（事件日期：2026-10-16）
+  开发者现在可以查看并操作 Runner 的桌面，便于检查智能体构建的原生应用。macOS 可在 Runner 设置中开启显示共享，也可通过 --desktop 参数启动 Runner；Amp 客户端直接连接 Runner，本地或邻近网络可降低交互延迟。 [查看Amp 官方更新原文](https://ampcode.com/news/runner-desktop)
 
-- **ChatGPT Voice 开始推出 GPT-Live-1.1 与新声音**（事件日期：2026-10-15）
-  GPT-Live-1.1 及轻量版 Quip 开始用于 ChatGPT Voice，改善多语言口音表现。新增法语、德语、印地语、日语、韩语、墨西哥西班牙语声音及英语 Bubbie，可用声音因地区和账户而异，可在语音设置中选择。 [查看OpenAI 官方发布记录原文](https://openai.com/products/release-notes/)
+- **GitHub 在 Slack 和 Teams 支持同一对话跨仓库工作**（事件日期：2026-10-15）
+  用户可在 Slack 或 Teams 的同一对话中，让 @GitHub 跨多个仓库创建问题、修改代码、提交 PR 或调查故障。更新还改善了 Slack 消息与线程上下文使用、仓库切换，以及任务中断后的恢复。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/)
 
-- **Google 更新 AI 搜索的来源链接与新闻展示**（事件日期：2026-10-15）
-  AI Mode 和 AI Overviews 将更频繁地在回答靠前位置展示内嵌链接，新闻轮播开始扩展至更多地区和语言。Google 还将测试回答顶部的官网链接区，并已开始测试视频结果中可点击的创作者和出版方档案，方便继续核对来源。 [查看Google 官方公告原文](https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/)
+- **Anthropic 展示 Claude 优化量子电路的研究成果**（事件日期：2026-10-16）
+  研究团队让 Claude Mythos 5 根据文字要求设计电路，通过程序校验正确性并反馈资源评分。官方报告称，模型在八类基础任务中找到了更高效的设计；流程仍包含初始指导和少量人工提示，本次发布属于研究成果。 [查看Anthropic 官方研究文章原文](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
