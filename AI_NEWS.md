@@ -2,6 +2,16 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-19
+
+整理日期：**2026-10-19** · 关注 AI 产品、模型与工具动态。
+
+- **DeepSeek 更新 Flash 模型，开放搜索与网页提取 API**（事件日期：2026-10-17）
+  Flash 已升级至 V4.1-Flash-1017，官网、App 和 API 同步更新，仍通过 deepseek-flash 调用，模型价格不变。同日开放 Search、Fetch 独立接口，分别用于网页搜索和 Markdown 内容提取。 [查看DeepSeek 官方更新记录原文](https://api-docs.deepseek.com/updates/)
+
+- **Claude Code 2.1.302 扩展分叉子智能体，增加压缩开关**（事件日期：2026-10-16）
+  分叉子智能体默认扩展至非交互命令、Agent SDK、桌面应用和 VS Code，并可在配置中关闭或重新启用空闲上下文压缩。同时修复部分 MCP 服务协商后无工具或调用失败的问题。 [查看Anthropic 官方发布记录原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
+
 ## 2026-10-17
 
 整理日期：**2026-10-17** · 关注 AI 产品、模型与工具动态。

@@ -55,22 +55,13 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-17** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-19** · 关注 AI 产品、模型与工具动态。
 
-- **Beam 开放权重，Ollama Cloud 提供限时免费体验**（事件日期：2026-10-16）
-  Reflection 的 Beam 采用约 5010 亿总参数、230 亿激活参数，支持百万 token 上下文，面向编程、推理和长流程智能体。权重采用 Apache 2.0 许可；Ollama Cloud 已接入并限时免费，可从终端或应用调用，无需下载模型。 [查看Ollama 官方公告原文](https://ollama.com/blog/reflection-beam)
+- **DeepSeek 更新 Flash 模型，开放搜索与网页提取 API**（事件日期：2026-10-17）
+  Flash 已升级至 V4.1-Flash-1017，官网、App 和 API 同步更新，仍通过 deepseek-flash 调用，模型价格不变。同日开放 Search、Fetch 独立接口，分别用于网页搜索和 Markdown 内容提取。 [查看DeepSeek 官方更新记录原文](https://api-docs.deepseek.com/updates/)
 
-- **Black Forest Labs 开放 FLUX 3 Image Klein 图像模型**（事件日期：2026-10-15）
-  56 亿参数的图像生成器支持文生图、最多 10 张参考图的生成与编辑，以及边界框布局控制。发布包含基础版、蒸馏版和量化权重，已支持 ComfyUI、Diffusers 及 LoRA 训练；权重采用 FLUX Kommunity License，商用须满足许可条件。 [查看Black Forest Labs 官方公告原文](https://bfl.ai/blog/flux-3-image-klein)
-
-- **Amp 支持查看并操控 macOS 与 Linux Runner 桌面**（事件日期：2026-10-16）
-  开发者现在可以查看并操作 Runner 的桌面，便于检查智能体构建的原生应用。macOS 可在 Runner 设置中开启显示共享，也可通过 --desktop 参数启动 Runner；Amp 客户端直接连接 Runner，本地或邻近网络可降低交互延迟。 [查看Amp 官方更新原文](https://ampcode.com/news/runner-desktop)
-
-- **GitHub 在 Slack 和 Teams 支持同一对话跨仓库工作**（事件日期：2026-10-15）
-  用户可在 Slack 或 Teams 的同一对话中，让 @GitHub 跨多个仓库创建问题、修改代码、提交 PR 或调查故障。更新还改善了 Slack 消息与线程上下文使用、仓库切换，以及任务中断后的恢复。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/)
-
-- **Anthropic 展示 Claude 优化量子电路的研究成果**（事件日期：2026-10-16）
-  研究团队让 Claude Mythos 5 根据文字要求设计电路，通过程序校验正确性并反馈资源评分。官方报告称，模型在八类基础任务中找到了更高效的设计；流程仍包含初始指导和少量人工提示，本次发布属于研究成果。 [查看Anthropic 官方研究文章原文](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+- **Claude Code 2.1.302 扩展分叉子智能体，增加压缩开关**（事件日期：2026-10-16）
+  分叉子智能体默认扩展至非交互命令、Agent SDK、桌面应用和 VS Code，并可在配置中关闭或重新启用空闲上下文压缩。同时修复部分 MCP 服务协商后无工具或调用失败的问题。 [查看Anthropic 官方发布记录原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->

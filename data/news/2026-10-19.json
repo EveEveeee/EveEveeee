@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-10-19",
+  "items": [
+    {
+      "title": "DeepSeek 更新 Flash 模型，开放搜索与网页提取 API",
+      "summary": "Flash 已升级至 V4.1-Flash-1017，官网、App 和 API 同步更新，仍通过 deepseek-flash 调用，模型价格不变。同日开放 Search、Fetch 独立接口，分别用于网页搜索和 Markdown 内容提取。",
+      "eventDate": "2026-10-17",
+      "sourceLabel": "DeepSeek 官方更新记录",
+      "url": "https://api-docs.deepseek.com/updates/"
+    },
+    {
+      "title": "Claude Code 2.1.302 扩展分叉子智能体，增加压缩开关",
+      "summary": "分叉子智能体默认扩展至非交互命令、Agent SDK、桌面应用和 VS Code，并可在配置中关闭或重新启用空闲上下文压缩。同时修复部分 MCP 服务协商后无工具或调用失败的问题。",
+      "eventDate": "2026-10-16",
+      "sourceLabel": "Anthropic 官方发布记录",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302"
+    }
+  ]
+}
