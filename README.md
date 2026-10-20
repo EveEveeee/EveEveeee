@@ -55,13 +55,19 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-19** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-20** · 关注 AI 产品、模型与工具动态。
 
-- **DeepSeek 更新 Flash 模型，开放搜索与网页提取 API**（事件日期：2026-10-17）
-  Flash 已升级至 V4.1-Flash-1017，官网、App 和 API 同步更新，仍通过 deepseek-flash 调用，模型价格不变。同日开放 Search、Fetch 独立接口，分别用于网页搜索和 Markdown 内容提取。 [查看DeepSeek 官方更新记录原文](https://api-docs.deepseek.com/updates/)
+- **Gemini Notebook 新增幻灯片与视频生成前的审阅流程**（事件日期：2026-10-19）
+  用户可先确认主题，再调整结构与视觉风格，并通过新的 Review 开关审阅幻灯片大纲或视频制作说明，确认后再生成。功能将在未来一周面向全球所有 Gemini Notebook 用户逐步推出。 [查看Google 官方博客原文](https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/)
 
-- **Claude Code 2.1.302 扩展分叉子智能体，增加压缩开关**（事件日期：2026-10-16）
-  分叉子智能体默认扩展至非交互命令、Agent SDK、桌面应用和 VS Code，并可在配置中关闭或重新启用空闲上下文压缩。同时修复部分 MCP 服务协商后无工具或调用失败的问题。 [查看Anthropic 官方发布记录原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
+- **Claude Code 新增自动模式配置向导与智能体安全核查**（事件日期：2026-10-19）
+  2.1.304 新增自动模式配置向导，根据项目与近期会话了解环境，并覆盖 Bedrock、Vertex、Foundry 等接入方式。另提供 Managed Agents 安全设置只读核查，对照官方指南检查配置，不自动修改设置。 [查看Anthropic 官方发布记录原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.304)
+
+- **OpenAI 开源跨语言编程评测 MultiLangBench**（事件日期：2026-10-19）
+  MultiLangBench 测试模型用 20 种语言构建 SQLite 兼容引擎的能力，官方同时公布 COBOL 代码迁移评测。官方测试中，在最高推理强度下，GPT-6 Astra 的多语言平均通过率为 87.4%；迁移评测则要求可观察输出逐字节一致。 [查看OpenAI 官方研究文章原文](https://openai.com/index/low-resource-programming-languages/)
+
+- **Hugging Face 宣布原生支持 TorchNeuron，简化 Trainium 模型运行**（事件日期：2026-10-19）
+  Transformers、Diffusers 等库可直接使用 AWS Trainium，新后端支持即时执行、torch.compile 和 PyTorch 分布式接口。10 月 19 日公告称，TorchNeuron 公开测试将于 10 月 20 日开始。 [查看Hugging Face 官方博客原文](https://huggingface.co/blog/hf-torchneuron)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
