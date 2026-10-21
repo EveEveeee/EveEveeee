@@ -2,6 +2,22 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-21
+
+整理日期：**2026-10-21** · 关注 AI 产品、模型与工具动态。
+
+- **Mistral 发布 Voxtral 3 语音模型与实时智能体 SDK**（事件日期：2026-10-20）
+  新一代转录和语音合成模型配合基于 LiveKit 的 SDK，串联聆听、推理、工具调用与播报。批量转录支持 50 多种语言，合成支持 35 多种语言，可通过 API 和 Studio 使用；完整私有部署需联系团队。 [查看Mistral 官方公告原文](https://mistral.ai/news/voxtral-3/)
+
+- **Gemini 为小企业新增经营入口与品牌素材工具**（事件日期：2026-10-20）
+  Google 宣布新增小企业专属入口，整合品牌素材、财务分析和客户洞察，并连接 Shopify、Canva、Xero 等应用。用户可上传并保留品牌风格，持续生成一致的营销素材；新入口、技能与应用连接将在未来几天向全球用户逐步开放。 [查看Google 官方博客原文](https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/)
+
+- **ChatGPT 逐步推出锁定聊天，支持 PIN 与设备验证**（事件日期：2026-10-20）
+  用户可将所选对话从常规历史、置顶和搜索中隐藏，使用 4 位账户 PIN 或受支持的设备认证打开。功能逐步覆盖免费及付费方案；Codex 与本地 Work 对话不支持，锁定也不会改变数据保留或模型改进设置。 [查看OpenAI 官方帮助文档原文](https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt)
+
+- **IBM 用学习记忆提升客服智能体，无需更新模型权重**（事件日期：2026-10-20）
+  IBM Research 公布 ALTK-Evolve 客服评测结果，从训练轨迹提炼行为指南并加入提示词。在 τ²-bench 零售测试集上，GPT-4.1 智能体四次独立尝试均成功的任务比例从 57.5% 升至 67.5%，代价是更多输入 token。 [查看IBM Research 官方文章原文](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+
 ## 2026-10-20
 
 整理日期：**2026-10-20** · 关注 AI 产品、模型与工具动态。
