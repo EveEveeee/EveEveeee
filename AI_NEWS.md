@@ -2,6 +2,19 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-22
+
+整理日期：**2026-10-22** · 关注 AI 产品、模型与工具动态。
+
+- **IBM 发布 Granite Speech 5.0，强化多语转录与翻译**（事件日期：2026-10-21）
+  新 20 亿参数模型支持英、法、德、西、葡、日六语转录，新增语言提示、最多 2000 个关键词引导，并改进长音频翻译。同步更新 Turbo CTC 与多人说话归属模型，三个模型均采用 Apache 2.0 许可，可从 Hugging Face 获取。 [查看IBM Granite 官方文章原文](https://huggingface.co/blog/ibm-granite/granite-speech-5)
+
+- **NVIDIA 开放 Nemotron 3.5 多模态检索与文档解析模型**（事件日期：2026-10-21）
+  新增 Embed 嵌入、Rerank 重排及 6.31 亿参数 Parse 模型，覆盖文本与图像检索、相关性排序和结构化文档提取。Parse 可保留阅读顺序及表格、图表结构；权重、数据与训练配方已开放，可通过 NIM 或合作推理平台部署。 [查看NVIDIA 官方文章原文](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
+
+- **OpenAI 发布 PHP 版本检查工具与 Codex 技能**（事件日期：2026-10-21）
+  OpenAI 随 AI 辅助发现的 PHP 漏洞披露，提供版本检查工具与 Codex 技能，可读取网站响应头或本地 PHP 版本。结果属于版本比较，隐藏版本时会返回未知；补丁是否适用需结合维护者与服务商指引。 [查看OpenAI 官方公告原文](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+
 ## 2026-10-21
 
 整理日期：**2026-10-21** · 关注 AI 产品、模型与工具动态。

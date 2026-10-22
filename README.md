@@ -55,19 +55,16 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-21** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-22** · 关注 AI 产品、模型与工具动态。
 
-- **Mistral 发布 Voxtral 3 语音模型与实时智能体 SDK**（事件日期：2026-10-20）
-  新一代转录和语音合成模型配合基于 LiveKit 的 SDK，串联聆听、推理、工具调用与播报。批量转录支持 50 多种语言，合成支持 35 多种语言，可通过 API 和 Studio 使用；完整私有部署需联系团队。 [查看Mistral 官方公告原文](https://mistral.ai/news/voxtral-3/)
+- **IBM 发布 Granite Speech 5.0，强化多语转录与翻译**（事件日期：2026-10-21）
+  新 20 亿参数模型支持英、法、德、西、葡、日六语转录，新增语言提示、最多 2000 个关键词引导，并改进长音频翻译。同步更新 Turbo CTC 与多人说话归属模型，三个模型均采用 Apache 2.0 许可，可从 Hugging Face 获取。 [查看IBM Granite 官方文章原文](https://huggingface.co/blog/ibm-granite/granite-speech-5)
 
-- **Gemini 为小企业新增经营入口与品牌素材工具**（事件日期：2026-10-20）
-  Google 宣布新增小企业专属入口，整合品牌素材、财务分析和客户洞察，并连接 Shopify、Canva、Xero 等应用。用户可上传并保留品牌风格，持续生成一致的营销素材；新入口、技能与应用连接将在未来几天向全球用户逐步开放。 [查看Google 官方博客原文](https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/)
+- **NVIDIA 开放 Nemotron 3.5 多模态检索与文档解析模型**（事件日期：2026-10-21）
+  新增 Embed 嵌入、Rerank 重排及 6.31 亿参数 Parse 模型，覆盖文本与图像检索、相关性排序和结构化文档提取。Parse 可保留阅读顺序及表格、图表结构；权重、数据与训练配方已开放，可通过 NIM 或合作推理平台部署。 [查看NVIDIA 官方文章原文](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
 
-- **ChatGPT 逐步推出锁定聊天，支持 PIN 与设备验证**（事件日期：2026-10-20）
-  用户可将所选对话从常规历史、置顶和搜索中隐藏，使用 4 位账户 PIN 或受支持的设备认证打开。功能逐步覆盖免费及付费方案；Codex 与本地 Work 对话不支持，锁定也不会改变数据保留或模型改进设置。 [查看OpenAI 官方帮助文档原文](https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt)
-
-- **IBM 用学习记忆提升客服智能体，无需更新模型权重**（事件日期：2026-10-20）
-  IBM Research 公布 ALTK-Evolve 客服评测结果，从训练轨迹提炼行为指南并加入提示词。在 τ²-bench 零售测试集上，GPT-4.1 智能体四次独立尝试均成功的任务比例从 57.5% 升至 67.5%，代价是更多输入 token。 [查看IBM Research 官方文章原文](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+- **OpenAI 发布 PHP 版本检查工具与 Codex 技能**（事件日期：2026-10-21）
+  OpenAI 随 AI 辅助发现的 PHP 漏洞披露，提供版本检查工具与 Codex 技能，可读取网站响应头或本地 PHP 版本。结果属于版本比较，隐藏版本时会返回未知；补丁是否适用需结合维护者与服务商指引。 [查看OpenAI 官方公告原文](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
