@@ -2,6 +2,19 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-23
+
+整理日期：**2026-10-23** · 关注 AI 产品、模型与工具动态。
+
+- **Google CX Agent Studio 新增智能体开发助手 Arc**（事件日期：2026-10-22）
+  Arc 是平台内置编程智能体，可协助设计多智能体架构、编写工具和回调、配置防护规则，并参与评测与诊断。用户可上传需求文档、样例数据或现有配置，为开发提供上下文。 [查看Google Cloud 官方文档原文](https://docs.cloud.google.com/gemini-enterprise-cx/cx-agent-studio/arc)
+
+- **GitHub Copilot 使用统计新增自定义技能、智能体与 MCP 名称**（事件日期：2026-10-22）
+  使用统计 API 开始显示组织自定义技能、智能体及 MCP 服务等配置名称，单组条目上限从 5 项增至 25 项。数据覆盖受支持版本的 CLI、Copilot 应用与 SDK；旧报告不补写，IDE 内置聊天遥测不报告这些名称。 [查看GitHub 官方更新记录原文](https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api/)
+
+- **Ai2 发布 OlmoEarth v1.3，开放全球卫星嵌入与探索器**（事件日期：2026-10-22）
+  新模型提供 10 米分辨率的年度卫星嵌入及免登录地图探索器，可比较地表变化、寻找相似地区，并以少量标注生成地图。全球数据首发覆盖 2023—2025 年；权重、预训练数据与代码开放，采用 OlmoEarth Artifact License。 [查看Ai2 官方文章原文](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+
 ## 2026-10-22
 
 整理日期：**2026-10-22** · 关注 AI 产品、模型与工具动态。

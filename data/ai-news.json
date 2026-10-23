@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "items": [
     {
-      "title": "IBM 发布 Granite Speech 5.0，强化多语转录与翻译",
-      "summary": "新 20 亿参数模型支持英、法、德、西、葡、日六语转录，新增语言提示、最多 2000 个关键词引导，并改进长音频翻译。同步更新 Turbo CTC 与多人说话归属模型，三个模型均采用 Apache 2.0 许可，可从 Hugging Face 获取。",
-      "eventDate": "2026-10-21",
-      "sourceLabel": "IBM Granite 官方文章",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+      "title": "Google CX Agent Studio 新增智能体开发助手 Arc",
+      "summary": "Arc 是平台内置编程智能体，可协助设计多智能体架构、编写工具和回调、配置防护规则，并参与评测与诊断。用户可上传需求文档、样例数据或现有配置，为开发提供上下文。",
+      "eventDate": "2026-10-22",
+      "sourceLabel": "Google Cloud 官方文档",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-cx/cx-agent-studio/arc"
     },
     {
-      "title": "NVIDIA 开放 Nemotron 3.5 多模态检索与文档解析模型",
-      "summary": "新增 Embed 嵌入、Rerank 重排及 6.31 亿参数 Parse 模型，覆盖文本与图像检索、相关性排序和结构化文档提取。Parse 可保留阅读顺序及表格、图表结构；权重、数据与训练配方已开放，可通过 NIM 或合作推理平台部署。",
-      "eventDate": "2026-10-21",
-      "sourceLabel": "NVIDIA 官方文章",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval"
+      "title": "GitHub Copilot 使用统计新增自定义技能、智能体与 MCP 名称",
+      "summary": "使用统计 API 开始显示组织自定义技能、智能体及 MCP 服务等配置名称，单组条目上限从 5 项增至 25 项。数据覆盖受支持版本的 CLI、Copilot 应用与 SDK；旧报告不补写，IDE 内置聊天遥测不报告这些名称。",
+      "eventDate": "2026-10-22",
+      "sourceLabel": "GitHub 官方更新记录",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api/"
     },
     {
-      "title": "OpenAI 发布 PHP 版本检查工具与 Codex 技能",
-      "summary": "OpenAI 随 AI 辅助发现的 PHP 漏洞披露，提供版本检查工具与 Codex 技能，可读取网站响应头或本地 PHP 版本。结果属于版本比较，隐藏版本时会返回未知；补丁是否适用需结合维护者与服务商指引。",
-      "eventDate": "2026-10-21",
-      "sourceLabel": "OpenAI 官方公告",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+      "title": "Ai2 发布 OlmoEarth v1.3，开放全球卫星嵌入与探索器",
+      "summary": "新模型提供 10 米分辨率的年度卫星嵌入及免登录地图探索器，可比较地表变化、寻找相似地区，并以少量标注生成地图。全球数据首发覆盖 2023—2025 年；权重、预训练数据与代码开放，采用 OlmoEarth Artifact License。",
+      "eventDate": "2026-10-22",
+      "sourceLabel": "Ai2 官方文章",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
     }
   ]
 }
