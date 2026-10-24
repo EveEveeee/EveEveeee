@@ -55,16 +55,16 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-23** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-24** · 关注 AI 产品、模型与工具动态。
 
-- **Google CX Agent Studio 新增智能体开发助手 Arc**（事件日期：2026-10-22）
-  Arc 是平台内置编程智能体，可协助设计多智能体架构、编写工具和回调、配置防护规则，并参与评测与诊断。用户可上传需求文档、样例数据或现有配置，为开发提供上下文。 [查看Google Cloud 官方文档原文](https://docs.cloud.google.com/gemini-enterprise-cx/cx-agent-studio/arc)
+- **Claude Code 扩展监控工具支持与企业会话权限**（事件日期：2026-10-23）
+  Claude Code 2.1.310 将 Monitor 工具和插件监控扩展至 Bedrock、Vertex、Foundry，也支持关闭遥测的环境。Enterprise 自定义角色新增云会话与 Remote Control 权限，可分别控制访问。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.310)
 
-- **GitHub Copilot 使用统计新增自定义技能、智能体与 MCP 名称**（事件日期：2026-10-22）
-  使用统计 API 开始显示组织自定义技能、智能体及 MCP 服务等配置名称，单组条目上限从 5 项增至 25 项。数据覆盖受支持版本的 CLI、Copilot 应用与 SDK；旧报告不补写，IDE 内置聊天遥测不报告这些名称。 [查看GitHub 官方更新记录原文](https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api/)
+- **GitHub 将 Teams 通知与 Copilot 整合，支持从问题通知发起修复**（事件日期：2026-10-23）
+  新版 GitHub Teams 应用整合通知与 Copilot；用户可在频道或聊天的问题通知中，通过 @GitHub 发起调查、修复并创建 PR，再由团队审查和合并。现有通知应用需更新，旧版 GitHub 应用将于 11 月 16 日退役。 [查看GitHub 官方更新记录原文](https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams/)
 
-- **Ai2 发布 OlmoEarth v1.3，开放全球卫星嵌入与探索器**（事件日期：2026-10-22）
-  新模型提供 10 米分辨率的年度卫星嵌入及免登录地图探索器，可比较地表变化、寻找相似地区，并以少量标注生成地图。全球数据首发覆盖 2023—2025 年；权重、预训练数据与代码开放，采用 OlmoEarth Artifact License。 [查看Ai2 官方文章原文](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+- **Anthropic 将 Agent Skills 标准捐赠给 AAIF**（事件日期：2026-10-22）
+  Anthropic 将 Agent Skills 名称、标志、GitHub 组织及域名捐赠给 Linux Foundation 旗下 AAIF，推动中立治理。开发者无需加入基金会即可继续使用和贡献；版本化发布、正式提案流程与安全指南仍属拟议路线图。 [查看Anthropic 官方公告原文](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
