@@ -55,16 +55,13 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-24** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-25** · 关注 AI 产品、模型与工具动态。
 
-- **Claude Code 扩展监控工具支持与企业会话权限**（事件日期：2026-10-23）
-  Claude Code 2.1.310 将 Monitor 工具和插件监控扩展至 Bedrock、Vertex、Foundry，也支持关闭遥测的环境。Enterprise 自定义角色新增云会话与 Remote Control 权限，可分别控制访问。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.310)
+- **Hugging Face 提供 Trainium 模型兼容性查询工具**（事件日期：2026-10-23）
+  查询 Space 可查看模型在 AWS Trainium2 上的运行结果、软件版本、核心数和峰值设备内存，并获取复现脚本与公开测试数据。目前仅覆盖文本与图文生成，最多 16 核；测试只生成 32 个 token，通过不代表吞吐表现或长文本质量。 [查看Hugging Face 官方博客原文](https://huggingface.co/blog/torch-neuronx-model-support)
 
-- **GitHub 将 Teams 通知与 Copilot 整合，支持从问题通知发起修复**（事件日期：2026-10-23）
-  新版 GitHub Teams 应用整合通知与 Copilot；用户可在频道或聊天的问题通知中，通过 @GitHub 发起调查、修复并创建 PR，再由团队审查和合并。现有通知应用需更新，旧版 GitHub 应用将于 11 月 16 日退役。 [查看GitHub 官方更新记录原文](https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams/)
-
-- **Anthropic 将 Agent Skills 标准捐赠给 AAIF**（事件日期：2026-10-22）
-  Anthropic 将 Agent Skills 名称、标志、GitHub 组织及域名捐赠给 Linux Foundation 旗下 AAIF，推动中立治理。开发者无需加入基金会即可继续使用和贡献；版本化发布、正式提案流程与安全指南仍属拟议路线图。 [查看Anthropic 官方公告原文](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
+- **GitHub Copilot 用量统计新增第三方客户端维度**（事件日期：2026-10-23）
+  Usage Metrics API 新增 totals_by_client，可按 OpenCode、Claude Code、Codex 等客户端查看经 Copilot 发出的成功模型请求、会话和 token 用量。使用前需启用指标政策并具备相应权限；模型请求数不等于提示词次数，客户端名称为尽力识别的分组。 [查看GitHub 官方更新记录原文](https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
