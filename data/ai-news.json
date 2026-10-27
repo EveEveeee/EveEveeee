@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-27",
   "items": [
     {
-      "title": "Hugging Face 提供 Trainium 模型兼容性查询工具",
-      "summary": "查询 Space 可查看模型在 AWS Trainium2 上的运行结果、软件版本、核心数和峰值设备内存，并获取复现脚本与公开测试数据。目前仅覆盖文本与图文生成，最多 16 核；测试只生成 32 个 token，通过不代表吞吐表现或长文本质量。",
-      "eventDate": "2026-10-23",
-      "sourceLabel": "Hugging Face 官方博客",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+      "title": "OpenAI 新增 Signals 工作活动数据，呈现 ChatGPT 的工作用途",
+      "summary": "新增数据覆盖近 100 个国家、165 类工作活动，按季度呈现 2025 年一季度至 2026 年三季度的 ChatGPT 工作用途。统计经聚合和隐私保护处理，仅包含个人计划中的工作相关消息，不含企业消息或 Codex，不能直接推断就业替代或生产率因果关系。",
+      "eventDate": "2026-10-26",
+      "sourceLabel": "OpenAI 官方文章",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work/"
     },
     {
-      "title": "GitHub Copilot 用量统计新增第三方客户端维度",
-      "summary": "Usage Metrics API 新增 totals_by_client，可按 OpenCode、Claude Code、Codex 等客户端查看经 Copilot 发出的成功模型请求、会话和 token 用量。使用前需启用指标政策并具备相应权限；模型请求数不等于提示词次数，客户端名称为尽力识别的分组。",
-      "eventDate": "2026-10-23",
-      "sourceLabel": "GitHub 官方更新记录",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode/"
+      "title": "Hugging Face 汇总开发工具更新，强化共享缓存与任务自动化",
+      "summary": "HF 介绍近期 CLI 与 huggingface_hub 更新，支持跨仓复用相同 Xet 文件、任务失败重试及 webhook 触发 Jobs，并提供实验性 CPU/GPU 云沙箱，方便智能体隔离运行代码。这是近期功能的集中介绍，云沙箱仍处于实验阶段。",
+      "eventDate": "2026-10-26",
+      "sourceLabel": "Hugging Face 官方博客",
+      "url": "https://huggingface.co/blog/huggingface/whats-new-in-the-hf-cli-and-huggingface-hub-librar"
+    },
+    {
+      "title": "Google 正式推出 LookML 语义索引，为智能体提供统一业务指标",
+      "summary": "Looker Core 的 LookML 业务逻辑现可自动同步至 Knowledge Catalog，让 Gemini Enterprise 和自建智能体查询指标定义、表连接规则及数据血缘。功能适用于 Google Cloud 上的 Looker Core，需启用相关索引和 API，数据访问仍受最终用户 IAM 权限约束。",
+      "eventDate": "2026-10-26",
+      "sourceLabel": "Google Cloud 官方博客",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/"
     }
   ]
 }

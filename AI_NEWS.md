@@ -2,6 +2,19 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-27
+
+整理日期：**2026-10-27** · 关注 AI 产品、模型与工具动态。
+
+- **OpenAI 新增 Signals 工作活动数据，呈现 ChatGPT 的工作用途**（事件日期：2026-10-26）
+  新增数据覆盖近 100 个国家、165 类工作活动，按季度呈现 2025 年一季度至 2026 年三季度的 ChatGPT 工作用途。统计经聚合和隐私保护处理，仅包含个人计划中的工作相关消息，不含企业消息或 Codex，不能直接推断就业替代或生产率因果关系。 [查看OpenAI 官方文章原文](https://openai.com/index/chatgpt-expanding-world-of-work/)
+
+- **Hugging Face 汇总开发工具更新，强化共享缓存与任务自动化**（事件日期：2026-10-26）
+  HF 介绍近期 CLI 与 huggingface_hub 更新，支持跨仓复用相同 Xet 文件、任务失败重试及 webhook 触发 Jobs，并提供实验性 CPU/GPU 云沙箱，方便智能体隔离运行代码。这是近期功能的集中介绍，云沙箱仍处于实验阶段。 [查看Hugging Face 官方博客原文](https://huggingface.co/blog/huggingface/whats-new-in-the-hf-cli-and-huggingface-hub-librar)
+
+- **Google 正式推出 LookML 语义索引，为智能体提供统一业务指标**（事件日期：2026-10-26）
+  Looker Core 的 LookML 业务逻辑现可自动同步至 Knowledge Catalog，让 Gemini Enterprise 和自建智能体查询指标定义、表连接规则及数据血缘。功能适用于 Google Cloud 上的 Looker Core，需启用相关索引和 API，数据访问仍受最终用户 IAM 权限约束。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/)
+
 ## 2026-10-25
 
 整理日期：**2026-10-25** · 关注 AI 产品、模型与工具动态。
