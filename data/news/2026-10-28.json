@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-10-28",
+  "items": [
+    {
+      "title": "Liquid AI 开放 LFM3 多模态模型家族",
+      "summary": "Liquid AI 发布六种约 20 亿参数的 LFM3 型号，覆盖文本、视觉、语音、全模态和结构化决策，开放权重及单 GPU 微调示例。文本型号采用 LFM Open License v1.0，官方不建议其用于复杂多步推理或智能体编程。",
+      "eventDate": "2026-10-27",
+      "sourceLabel": "Liquid AI 官方博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+    },
+    {
+      "title": "Gemini Robotics ER 2 进入 Google Cloud 公开预览",
+      "summary": "开发者可通过 Gemini platform 的 Model Garden 试用 ER 2，将动作模型、导航 API 和自定义函数作为工具，结合视频、音频及文本开展任务规划、执行核验和多机器人协作。当前为公开预览，实际机器人控制仍需接入底层工具与硬件。",
+      "eventDate": "2026-10-27",
+      "sourceLabel": "Google Cloud 官方博客",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6.1 Terra，侧重视觉理解与电脑操作",
+      "summary": "GPT-6.1 Terra 面向视觉推理、电脑操作与写作。API 支持文本和图像输入、文本输出，工具调用须使用 Responses API；Work、Codex 的可用性取决于订阅和管理设置，Chat 侧不提供。",
+      "eventDate": "2026-10-26",
+      "sourceLabel": "OpenAI 官方 API 更新记录",
+      "url": "https://developers.openai.com/api/docs/changelog"
+    }
+  ]
+}
