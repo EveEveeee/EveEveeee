@@ -2,6 +2,22 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-29
+
+整理日期：**2026-10-29** · 关注 AI 产品、模型与工具动态。
+
+- **ChatGPT 开始测试通过 iMessage 和 RCS 联系 dot**（事件日期：2026-10-28）
+  美国 Pro 用户开始获得 dot 消息渠道测试，可通过 iMessage 或 Android RCS 进行一对一文字、照片及语音交流，并接收主动更新。需要审批时，dot 会发送链接让用户回到 ChatGPT 处理；当前仍为逐步开放的 beta。 [查看OpenAI 官方功能说明原文](https://learn.chatgpt.com/docs/whats-new/dots-october-28-2026)
+
+- **Google 发布 Gemini 4 Carbon，强化多步编程与网络防御**（事件日期：2026-10-28）
+  Gemini 4 Carbon 加强持续多步软件工程任务，以及漏洞检测、风险验证和代码修补能力。本周先向部分网络防御者开放，再通过 Fairwind 计划扩大受信伙伴范围；普通开发者、企业和消费者版本仍待推出。 [查看Google 官方公告原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+
+- **Google 预览 Connected Apps 平台，统一接入 Search 与 Gemini**（事件日期：2026-10-28）
+  开发者可接入云端 MCP 或 Android AppFunctions，在统一控制台注册、测试并提交应用，选择发布至 Search、Gemini 或两者，并监测流量、延迟和错误。平台需报名并分阶段开放；部分 Gemini 集成已上线，Search 接入仍将在后续数周推出。 [查看Google 官方公告原文](https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/)
+
+- **英伟达发布 Nemotron 3.5 Transcribe，扩展多语语音处理**（事件日期：2026-10-28）
+  模型面向录制音频，支持 40 语转录、31 语与英语互译及 13 语说话人归属。配套 Granary v2 公开 48 语的语料清单和处理流水线，源音频需按各上游语料许可另行获取。 [查看英伟达官方文章原文](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+
 ## 2026-10-28
 
 整理日期：**2026-10-28** · 关注 AI 产品、模型与工具动态。
