@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-10-30",
+  "items": [
+    {
+      "title": "Gemini 支持在聊天中直接生成和编辑文件",
+      "summary": "可在聊天里生成、预览和修改文档、表格、演示、PDF 及代码，并支持全屏手动编辑或选中内容让 Gemini 调整。面向 Gemini 已支持的地区与语言用户开放；PDF 支持网页和移动端，其余格式目前仅支持网页。",
+      "eventDate": "2026-10-29",
+      "sourceLabel": "Google 官方博客",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
+    },
+    {
+      "title": "Mistral Large 4 开放权重，支持自部署与微调",
+      "summary": "官方发布 FP8、NVFP4 权重，支持文本与图像输入，并提供 Transformers、vLLM、llama.cpp 推理及 TRL 微调支持。采用 Mistral 开放权重许可，模型即服务经营者的商用受额外许可约束。",
+      "eventDate": "2026-10-29",
+      "sourceLabel": "Hugging Face 官方博客",
+      "url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "title": "Hugging Face 发布 Swift 语音与决策开发包",
+      "summary": "AnySpeechRecognizer 接入本地语音引擎并支持说话人分离；AnyDecisionModel 返回带概率的分类、选择和评分结果。最低要求 Swift 6.2、macOS/iOS 26 及以上，部分后端另有硬件、工具链及系统要求。",
+      "eventDate": "2026-10-29",
+      "sourceLabel": "Hugging Face 官方博客",
+      "url": "https://huggingface.co/blog/anydecisionmodel"
+    }
+  ]
+}
