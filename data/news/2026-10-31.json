@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-10-31",
+  "items": [
+    {
+      "title": "Claude Code 新增群组共享预算与云端 MCP 表单",
+      "summary": "Claude Code 2.1.316 为 Claude apps gateway 增加通过管理员 API 设置的群组共享月度预算，以及多条匹配策略的分层合并。云端会话可填写或拒绝 MCP 请求的表单；VS Code 也新增网关登录入口。",
+      "eventDate": "2026-10-31",
+      "sourceLabel": "Anthropic 官方发布说明",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
+    },
+    {
+      "title": "Google 预览跨项目智能体管理，集中发现 MCP 与工具",
+      "summary": "Agent Registry 可从中央管理项目发现、搜索和治理边界内多个项目的智能体、MCP 服务器与工具。功能处于预览，仅汇总同一服务位置的资源；成员项目手动注册的资源和独立技能不会自动汇总。",
+      "eventDate": "2026-10-30",
+      "sourceLabel": "Google Cloud 官方发行说明",
+      "url": "https://docs.cloud.google.com/agent-registry/release-notes"
+    },
+    {
+      "title": "Google 扩展企业语义模型接入，为智能体提供业务上下文",
+      "summary": "Knowledge Catalog 的扩展语义模型支持正式可用，可接入 dbt、Snowflake、Databricks、SAP 等系统的指标定义与关联关系，并保留来源信息，帮助智能体复用企业业务口径。用于浏览和管理上下文的 Knowledge Studio 仍处于预览。",
+      "eventDate": "2026-10-29",
+      "sourceLabel": "Google Cloud 官方博客",
+      "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/"
+    }
+  ]
+}

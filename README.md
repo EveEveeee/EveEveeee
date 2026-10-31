@@ -55,16 +55,16 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-10-30** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-10-31** · 关注 AI 产品、模型与工具动态。
 
-- **Gemini 支持在聊天中直接生成和编辑文件**（事件日期：2026-10-29）
-  可在聊天里生成、预览和修改文档、表格、演示、PDF 及代码，并支持全屏手动编辑或选中内容让 Gemini 调整。面向 Gemini 已支持的地区与语言用户开放；PDF 支持网页和移动端，其余格式目前仅支持网页。 [查看Google 官方博客原文](https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/)
+- **Claude Code 新增群组共享预算与云端 MCP 表单**（事件日期：2026-10-31）
+  Claude Code 2.1.316 为 Claude apps gateway 增加通过管理员 API 设置的群组共享月度预算，以及多条匹配策略的分层合并。云端会话可填写或拒绝 MCP 请求的表单；VS Code 也新增网关登录入口。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)
 
-- **Mistral Large 4 开放权重，支持自部署与微调**（事件日期：2026-10-29）
-  官方发布 FP8、NVFP4 权重，支持文本与图像输入，并提供 Transformers、vLLM、llama.cpp 推理及 TRL 微调支持。采用 Mistral 开放权重许可，模型即服务经营者的商用受额外许可约束。 [查看Hugging Face 官方博客原文](https://huggingface.co/blog/mistral-large4)
+- **Google 预览跨项目智能体管理，集中发现 MCP 与工具**（事件日期：2026-10-30）
+  Agent Registry 可从中央管理项目发现、搜索和治理边界内多个项目的智能体、MCP 服务器与工具。功能处于预览，仅汇总同一服务位置的资源；成员项目手动注册的资源和独立技能不会自动汇总。 [查看Google Cloud 官方发行说明原文](https://docs.cloud.google.com/agent-registry/release-notes)
 
-- **Hugging Face 发布 Swift 语音与决策开发包**（事件日期：2026-10-29）
-  AnySpeechRecognizer 接入本地语音引擎并支持说话人分离；AnyDecisionModel 返回带概率的分类、选择和评分结果。最低要求 Swift 6.2、macOS/iOS 26 及以上，部分后端另有硬件、工具链及系统要求。 [查看Hugging Face 官方博客原文](https://huggingface.co/blog/anydecisionmodel)
+- **Google 扩展企业语义模型接入，为智能体提供业务上下文**（事件日期：2026-10-29）
+  Knowledge Catalog 的扩展语义模型支持正式可用，可接入 dbt、Snowflake、Databricks、SAP 等系统的指标定义与关联关系，并保留来源信息，帮助智能体复用企业业务口径。用于浏览和管理上下文的 Knowledge Studio 仍处于预览。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->

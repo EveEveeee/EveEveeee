@@ -2,6 +2,19 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-10-31
+
+整理日期：**2026-10-31** · 关注 AI 产品、模型与工具动态。
+
+- **Claude Code 新增群组共享预算与云端 MCP 表单**（事件日期：2026-10-31）
+  Claude Code 2.1.316 为 Claude apps gateway 增加通过管理员 API 设置的群组共享月度预算，以及多条匹配策略的分层合并。云端会话可填写或拒绝 MCP 请求的表单；VS Code 也新增网关登录入口。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)
+
+- **Google 预览跨项目智能体管理，集中发现 MCP 与工具**（事件日期：2026-10-30）
+  Agent Registry 可从中央管理项目发现、搜索和治理边界内多个项目的智能体、MCP 服务器与工具。功能处于预览，仅汇总同一服务位置的资源；成员项目手动注册的资源和独立技能不会自动汇总。 [查看Google Cloud 官方发行说明原文](https://docs.cloud.google.com/agent-registry/release-notes)
+
+- **Google 扩展企业语义模型接入，为智能体提供业务上下文**（事件日期：2026-10-29）
+  Knowledge Catalog 的扩展语义模型支持正式可用，可接入 dbt、Snowflake、Databricks、SAP 等系统的指标定义与关联关系，并保留来源信息，帮助智能体复用企业业务口径。用于浏览和管理上下文的 Knowledge Studio 仍处于预览。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/)
+
 ## 2026-10-30
 
 整理日期：**2026-10-30** · 关注 AI 产品、模型与工具动态。
