@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "items": [
     {
-      "title": "Claude Code 新增群组共享预算与云端 MCP 表单",
-      "summary": "Claude Code 2.1.316 为 Claude apps gateway 增加通过管理员 API 设置的群组共享月度预算，以及多条匹配策略的分层合并。云端会话可填写或拒绝 MCP 请求的表单；VS Code 也新增网关登录入口。",
-      "eventDate": "2026-10-31",
-      "sourceLabel": "Anthropic 官方发布说明",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
-    },
-    {
-      "title": "Google 预览跨项目智能体管理，集中发现 MCP 与工具",
-      "summary": "Agent Registry 可从中央管理项目发现、搜索和治理边界内多个项目的智能体、MCP 服务器与工具。功能处于预览，仅汇总同一服务位置的资源；成员项目手动注册的资源和独立技能不会自动汇总。",
+      "title": "SageMaker 支持 GPU 分区，供多个模型共用加速器",
+      "summary": "SageMaker AI 实时端点可通过 NVIDIA MIG，将单个 GPU 划为多个算力与显存隔离分区，承载不同模型。每块 GPU 最多 7 个分区，具体上限随实例而异；目前限指定实例与区域，主机资源仍共享。",
       "eventDate": "2026-10-30",
-      "sourceLabel": "Google Cloud 官方发行说明",
-      "url": "https://docs.cloud.google.com/agent-registry/release-notes"
+      "sourceLabel": "AWS 官方公告",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/"
     },
     {
-      "title": "Google 扩展企业语义模型接入，为智能体提供业务上下文",
-      "summary": "Knowledge Catalog 的扩展语义模型支持正式可用，可接入 dbt、Snowflake、Databricks、SAP 等系统的指标定义与关联关系，并保留来源信息，帮助智能体复用企业业务口径。用于浏览和管理上下文的 Knowledge Studio 仍处于预览。",
+      "title": "微软扩展 Copilot 财务能力，Cowork 财务插件正式可用",
+      "summary": "微软扩展财务技能与伙伴插件，支持对账、分录和建模等工作。Cowork 的 Finance 与 Capital Markets 插件已正式可用；会计能力仍在 Frontier 计划内，ERP 及伙伴插件逐步推出，第三方服务可能另需许可、认证或管理员启用。",
       "eventDate": "2026-10-29",
-      "sourceLabel": "Google Cloud 官方博客",
-      "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/"
+      "sourceLabel": "微软官方博客",
+      "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/"
+    },
+    {
+      "title": "AWS 支持将 Step Functions 工作流作为智能体工具",
+      "summary": "通过 AgentCore Gateway 和 MCP，智能体可调用已有 Standard、Express 工作流，自行决定调用时机与输入，业务步骤按预定义流程执行。Standard 工作流还可查询状态与历史；需同一区域及相应 IAM 授权，按相关服务标准费率计费。",
+      "eventDate": "2026-10-29",
+      "sourceLabel": "AWS 官方公告",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/"
     }
   ]
 }

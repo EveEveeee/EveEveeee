@@ -2,6 +2,19 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-01
+
+整理日期：**2026-11-01** · 关注 AI 产品、模型与工具动态。
+
+- **SageMaker 支持 GPU 分区，供多个模型共用加速器**（事件日期：2026-10-30）
+  SageMaker AI 实时端点可通过 NVIDIA MIG，将单个 GPU 划为多个算力与显存隔离分区，承载不同模型。每块 GPU 最多 7 个分区，具体上限随实例而异；目前限指定实例与区域，主机资源仍共享。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/)
+
+- **微软扩展 Copilot 财务能力，Cowork 财务插件正式可用**（事件日期：2026-10-29）
+  微软扩展财务技能与伙伴插件，支持对账、分录和建模等工作。Cowork 的 Finance 与 Capital Markets 插件已正式可用；会计能力仍在 Frontier 计划内，ERP 及伙伴插件逐步推出，第三方服务可能另需许可、认证或管理员启用。 [查看微软官方博客原文](https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/)
+
+- **AWS 支持将 Step Functions 工作流作为智能体工具**（事件日期：2026-10-29）
+  通过 AgentCore Gateway 和 MCP，智能体可调用已有 Standard、Express 工作流，自行决定调用时机与输入，业务步骤按预定义流程执行。Standard 工作流还可查询状态与历史；需同一区域及相应 IAM 授权，按相关服务标准费率计费。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/)
+
 ## 2026-10-31
 
 整理日期：**2026-10-31** · 关注 AI 产品、模型与工具动态。
