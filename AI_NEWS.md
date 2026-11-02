@@ -2,6 +2,16 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-02
+
+整理日期：**2026-11-02** · 关注 AI 产品、模型与工具动态。
+
+- **DeepSeek Harness 团队公开单仓库编程智能体研究原型**（事件日期：2026-10-31）
+  原型面向单个 GitHub 仓库，可接收 GitHub 与可选飞书渠道的授权请求，在独立会话和目录处理任务，并回原讨论报告结果或提交 PR。代码采用 MIT 许可；作者明确仅供研究参考，并非正式产品或生产就绪软件。 [查看DeepSeek Harness 团队官方仓库原文](https://github.com/deepseek-ai/dsh-superagent-prototype)
+
+- **Google 原型卫星回传 TPU 生成的 AI 响应**（事件日期：2026-10-30）
+  Google 披露，Project Suncatcher 原型卫星已在轨使用 TPU 运行 Gemma 4，并向地面回传生成文本。项目仍处于早期研究，下一步将测试轨道热环境与辐射影响；2027 年双卫星互连是后续计划。 [查看Google 官方研究博客原文](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
+
 ## 2026-11-01
 
 整理日期：**2026-11-01** · 关注 AI 产品、模型与工具动态。

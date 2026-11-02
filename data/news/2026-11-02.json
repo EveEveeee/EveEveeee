@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-11-02",
+  "items": [
+    {
+      "title": "DeepSeek Harness 团队公开单仓库编程智能体研究原型",
+      "summary": "原型面向单个 GitHub 仓库，可接收 GitHub 与可选飞书渠道的授权请求，在独立会话和目录处理任务，并回原讨论报告结果或提交 PR。代码采用 MIT 许可；作者明确仅供研究参考，并非正式产品或生产就绪软件。",
+      "eventDate": "2026-10-31",
+      "sourceLabel": "DeepSeek Harness 团队官方仓库",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "title": "Google 原型卫星回传 TPU 生成的 AI 响应",
+      "summary": "Google 披露，Project Suncatcher 原型卫星已在轨使用 TPU 运行 Gemma 4，并向地面回传生成文本。项目仍处于早期研究，下一步将测试轨道热环境与辐射影响；2027 年双卫星互连是后续计划。",
+      "eventDate": "2026-10-30",
+      "sourceLabel": "Google 官方研究博客",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+    }
+  ]
+}
