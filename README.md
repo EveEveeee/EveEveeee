@@ -55,13 +55,13 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-02** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-03** · 关注 AI 产品、模型与工具动态。
 
-- **DeepSeek Harness 团队公开单仓库编程智能体研究原型**（事件日期：2026-10-31）
-  原型面向单个 GitHub 仓库，可接收 GitHub 与可选飞书渠道的授权请求，在独立会话和目录处理任务，并回原讨论报告结果或提交 PR。代码采用 MIT 许可；作者明确仅供研究参考，并非正式产品或生产就绪软件。 [查看DeepSeek Harness 团队官方仓库原文](https://github.com/deepseek-ai/dsh-superagent-prototype)
+- **Amazon Quick 桌面端支持沿用组织现有登录**（事件日期：2026-11-02）
+  组织用户可沿用 Quick 网页端登录，无需另注册桌面 OIDC 应用。管理员一次启用桌面连接器后，用户输入 Quick 账号名并在浏览器完成认证；适用于支持完整 Quick 功能的区域，沿用既有订阅与配额。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
 
-- **Google 原型卫星回传 TPU 生成的 AI 响应**（事件日期：2026-10-30）
-  Google 披露，Project Suncatcher 原型卫星已在轨使用 TPU 运行 Gemma 4，并向地面回传生成文本。项目仍处于早期研究，下一步将测试轨道热环境与辐射影响；2027 年双卫星互连是后续计划。 [查看Google 官方研究博客原文](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
+- **Amazon Connect Customer 支持在客服流程中调用 MCP 工具**（事件日期：2026-11-02）
+  新增 External Tool 流程模块，可通过 AgentCore Gateway 调用第三方 MCP 工具，读取数据或触发操作，无需为接入另写 Lambda。适用于 Connect Customer 实例与九个 AWS 区域，须先配置 MCP 集成和认证。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->

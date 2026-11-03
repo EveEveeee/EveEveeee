@@ -2,6 +2,16 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-03
+
+整理日期：**2026-11-03** · 关注 AI 产品、模型与工具动态。
+
+- **Amazon Quick 桌面端支持沿用组织现有登录**（事件日期：2026-11-02）
+  组织用户可沿用 Quick 网页端登录，无需另注册桌面 OIDC 应用。管理员一次启用桌面连接器后，用户输入 Quick 账号名并在浏览器完成认证；适用于支持完整 Quick 功能的区域，沿用既有订阅与配额。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
+
+- **Amazon Connect Customer 支持在客服流程中调用 MCP 工具**（事件日期：2026-11-02）
+  新增 External Tool 流程模块，可通过 AgentCore Gateway 调用第三方 MCP 工具，读取数据或触发操作，无需为接入另写 Lambda。适用于 Connect Customer 实例与九个 AWS 区域，须先配置 MCP 集成和认证。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/)
+
 ## 2026-11-02
 
 整理日期：**2026-11-02** · 关注 AI 产品、模型与工具动态。
