@@ -55,13 +55,19 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-03** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-04** · 关注 AI 产品、模型与工具动态。
 
-- **Amazon Quick 桌面端支持沿用组织现有登录**（事件日期：2026-11-02）
-  组织用户可沿用 Quick 网页端登录，无需另注册桌面 OIDC 应用。管理员一次启用桌面连接器后，用户输入 Quick 账号名并在浏览器完成认证；适用于支持完整 Quick 功能的区域，沿用既有订阅与配额。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
+- **Google Cloud 开发插件进入 Antigravity 插件市场**（事件日期：2026-11-03）
+  插件整合实时官方文档检索、按需技能发现与云命令检查，可通过市场或 CLI 安装。文档连接预授权，云资源访问仍需认证；涉及计费 API 或基础设施变更的操作要求用户确认。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace)
 
-- **Amazon Connect Customer 支持在客服流程中调用 MCP 工具**（事件日期：2026-11-02）
-  新增 External Tool 流程模块，可通过 AgentCore Gateway 调用第三方 MCP 工具，读取数据或触发操作，无需为接入另写 Lambda。适用于 Connect Customer 实例与九个 AWS 区域，须先配置 MCP 集成和认证。 [查看AWS 官方公告原文](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/)
+- **微软 SharePoint 智能体工具进入公开预览**（事件日期：2026-11-03）
+  Work IQ MCP 新增 60 余项 SharePoint 操作，供智能体搜索、整理内容及处理列表、文件和审批。需管理员启用并授权，受用户现有权限约束；使用 Copilot Credits 按量计费，独立于 Microsoft 365 Copilot 许可。 [查看微软 SharePoint 官方博客原文](https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917)
+
+- **Claude Code 新增钩子失败阻断选项与网关成本报表**（事件日期：2026-11-03）
+  2.1.317 为 Agent SDK 增加可选配置，钩子回调失败时可阻断对应操作。Claude apps gateway 管理 API 新增历史成本报表，可按日期、开发者或身份群组查询；群组记录依管理员配置。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.317)
+
+- **CWE-bench v2 公布百项防御性代码修补任务**（事件日期：2026-11-03）
+  基准覆盖 91 类 CWE 和 8 种语言，通过 Harbor 容器与程序化校验评估漏洞修复及原功能保留。数据卡标注 Apache 2.0 许可，下载须接受访问条件；保留测试集需联系作者评测。 [查看Collinear AI 团队 / Hugging Face原文](https://huggingface.co/blog/cwe-bench)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
