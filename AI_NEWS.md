@@ -2,6 +2,22 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-05
+
+整理日期：**2026-11-05** · 关注 AI 产品、模型与工具动态。
+
+- **OpenAI 发布 GPT Image 2.6，支持 SVG 与动画 GIF**（事件日期：2026-11-04）
+  Sunburst 面向精细创作，Flare 侧重快速迭代；两款模型通过 Image API 提供复杂度调节、标注引导编辑、SVG 与动画 GIF 生成。SVG 和 GIF 仅支持生成端点；使用可能需要 API 组织验证，并受账户配额限制。 [查看OpenAI 官方开发者文档原文](https://developers.openai.com/api/docs/guides/image-generation)
+
+- **Google 预览 AlloyDB Express，面向开发者与编码智能体**（事件日期：2026-11-04）
+  AlloyDB Express 支持按需创建 PostgreSQL 数据库，闲置 15 分钟后自动暂停算力，并提供向量检索等 AI 能力。当前为预览，暂停后存储仍计费；高可用、只读副本与灾备需升级至普通 AlloyDB。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping)
+
+- **GitHub Copilot 接入 Xcode 内置编码助手，开启公开预览**（事件日期：2026-11-04）
+  用户可在 Xcode 内置编码助手中配置 Copilot，支持全部 Copilot 套餐。需 Xcode 27.3 beta 与 macOS Tahoe 26.6 或更新版本；原有 Copilot for Xcode 扩展继续作为独立选项提供。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/)
+
+- **Dharma 推出 2B 文档字段提取模型，按自定义结构返回 JSON**（事件日期：2026-11-04）
+  Dharma Field Extractor 可从文档图像提取字段，支持自动发现键值，或按指定字段名、类型、表格与嵌套结构输出 JSON。团队提供需登录的网页试用入口。 [查看Dharma AI 团队博客原文](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+
 ## 2026-11-04
 
 整理日期：**2026-11-04** · 关注 AI 产品、模型与工具动态。

@@ -55,19 +55,19 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-04** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-05** · 关注 AI 产品、模型与工具动态。
 
-- **Google Cloud 开发插件进入 Antigravity 插件市场**（事件日期：2026-11-03）
-  插件整合实时官方文档检索、按需技能发现与云命令检查，可通过市场或 CLI 安装。文档连接预授权，云资源访问仍需认证；涉及计费 API 或基础设施变更的操作要求用户确认。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace)
+- **OpenAI 发布 GPT Image 2.6，支持 SVG 与动画 GIF**（事件日期：2026-11-04）
+  Sunburst 面向精细创作，Flare 侧重快速迭代；两款模型通过 Image API 提供复杂度调节、标注引导编辑、SVG 与动画 GIF 生成。SVG 和 GIF 仅支持生成端点；使用可能需要 API 组织验证，并受账户配额限制。 [查看OpenAI 官方开发者文档原文](https://developers.openai.com/api/docs/guides/image-generation)
 
-- **微软 SharePoint 智能体工具进入公开预览**（事件日期：2026-11-03）
-  Work IQ MCP 新增 60 余项 SharePoint 操作，供智能体搜索、整理内容及处理列表、文件和审批。需管理员启用并授权，受用户现有权限约束；使用 Copilot Credits 按量计费，独立于 Microsoft 365 Copilot 许可。 [查看微软 SharePoint 官方博客原文](https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917)
+- **Google 预览 AlloyDB Express，面向开发者与编码智能体**（事件日期：2026-11-04）
+  AlloyDB Express 支持按需创建 PostgreSQL 数据库，闲置 15 分钟后自动暂停算力，并提供向量检索等 AI 能力。当前为预览，暂停后存储仍计费；高可用、只读副本与灾备需升级至普通 AlloyDB。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping)
 
-- **Claude Code 新增钩子失败阻断选项与网关成本报表**（事件日期：2026-11-03）
-  2.1.317 为 Agent SDK 增加可选配置，钩子回调失败时可阻断对应操作。Claude apps gateway 管理 API 新增历史成本报表，可按日期、开发者或身份群组查询；群组记录依管理员配置。 [查看Anthropic 官方发布说明原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.317)
+- **GitHub Copilot 接入 Xcode 内置编码助手，开启公开预览**（事件日期：2026-11-04）
+  用户可在 Xcode 内置编码助手中配置 Copilot，支持全部 Copilot 套餐。需 Xcode 27.3 beta 与 macOS Tahoe 26.6 或更新版本；原有 Copilot for Xcode 扩展继续作为独立选项提供。 [查看GitHub 官方更新日志原文](https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/)
 
-- **CWE-bench v2 公布百项防御性代码修补任务**（事件日期：2026-11-03）
-  基准覆盖 91 类 CWE 和 8 种语言，通过 Harbor 容器与程序化校验评估漏洞修复及原功能保留。数据卡标注 Apache 2.0 许可，下载须接受访问条件；保留测试集需联系作者评测。 [查看Collinear AI 团队 / Hugging Face原文](https://huggingface.co/blog/cwe-bench)
+- **Dharma 推出 2B 文档字段提取模型，按自定义结构返回 JSON**（事件日期：2026-11-04）
+  Dharma Field Extractor 可从文档图像提取字段，支持自动发现键值，或按指定字段名、类型、表格与嵌套结构输出 JSON。团队提供需登录的网页试用入口。 [查看Dharma AI 团队博客原文](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
