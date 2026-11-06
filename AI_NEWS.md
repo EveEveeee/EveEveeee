@@ -2,6 +2,22 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-06
+
+整理日期：**2026-11-06** · 关注 AI 产品、模型与工具动态。
+
+- **Gemini Omni 1.2 Flash 在 Google Cloud 正式可用**（事件日期：2026-11-06）
+  新版支持生成和编辑最长 15 秒的视频，也可用对话反复修改同一片段。现可通过 Google Vids 和 Google Cloud API 使用，音频参考仅向获准用户开放。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available)
+
+- **OpenAI 发布面向授权安全测试的 GPT-6-Cyber**（事件日期：2026-11-05）
+  模型用于调查漏洞、在授权环境中复现问题并验证修复。API 仅向获得 Daybreak Red 资格及该模型额外审批的组织开放，调用须使用获准项目及白名单内的来源 IP。 [查看OpenAI 官方模型文档原文](https://developers.openai.com/api/docs/models/gpt-6-cyber)
+
+- **Google 在 GKE 正式提供 Agent Substrate 1.0**（事件日期：2026-11-05）
+  新版将智能体状态与执行资源分离，空闲时保存状态，接到任务后按需恢复。Google 同时宣布向 CNCF 捐赠 Agent Substrate、gVisor 和 OpenRL，三个项目仍在完成 Sandbox 接入。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf)
+
+- **LeRobot 0.7.0 支持在机器人运行中用语言调整任务**（事件日期：2026-11-05）
+  新版可在保持机器人连接的同时切换子任务；配合支持文本生成的策略或外部视觉语言规划器，还能提问或让机器人拆解新目标。训练可从 Hub、存储桶或 LanceDB 流式读取数据，无需预下载完整数据集。 [查看LeRobot 团队博客原文](https://huggingface.co/blog/lerobot/lerobot-release-v070)
+
 ## 2026-11-05
 
 整理日期：**2026-11-05** · 关注 AI 产品、模型与工具动态。

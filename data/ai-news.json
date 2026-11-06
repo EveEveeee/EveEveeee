@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "items": [
     {
-      "title": "OpenAI 发布 GPT Image 2.6，支持 SVG 与动画 GIF",
-      "summary": "Sunburst 面向精细创作，Flare 侧重快速迭代；两款模型通过 Image API 提供复杂度调节、标注引导编辑、SVG 与动画 GIF 生成。SVG 和 GIF 仅支持生成端点；使用可能需要 API 组织验证，并受账户配额限制。",
-      "eventDate": "2026-11-04",
-      "sourceLabel": "OpenAI 官方开发者文档",
-      "url": "https://developers.openai.com/api/docs/guides/image-generation"
-    },
-    {
-      "title": "Google 预览 AlloyDB Express，面向开发者与编码智能体",
-      "summary": "AlloyDB Express 支持按需创建 PostgreSQL 数据库，闲置 15 分钟后自动暂停算力，并提供向量检索等 AI 能力。当前为预览，暂停后存储仍计费；高可用、只读副本与灾备需升级至普通 AlloyDB。",
-      "eventDate": "2026-11-04",
+      "title": "Gemini Omni 1.2 Flash 在 Google Cloud 正式可用",
+      "summary": "新版支持生成和编辑最长 15 秒的视频，也可用对话反复修改同一片段。现可通过 Google Vids 和 Google Cloud API 使用，音频参考仅向获准用户开放。",
+      "eventDate": "2026-11-06",
       "sourceLabel": "Google Cloud 官方博客",
-      "url": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping"
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available"
     },
     {
-      "title": "GitHub Copilot 接入 Xcode 内置编码助手，开启公开预览",
-      "summary": "用户可在 Xcode 内置编码助手中配置 Copilot，支持全部 Copilot 套餐。需 Xcode 27.3 beta 与 macOS Tahoe 26.6 或更新版本；原有 Copilot for Xcode 扩展继续作为独立选项提供。",
-      "eventDate": "2026-11-04",
-      "sourceLabel": "GitHub 官方更新日志",
-      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/"
+      "title": "OpenAI 发布面向授权安全测试的 GPT-6-Cyber",
+      "summary": "模型用于调查漏洞、在授权环境中复现问题并验证修复。API 仅向获得 Daybreak Red 资格及该模型额外审批的组织开放，调用须使用获准项目及白名单内的来源 IP。",
+      "eventDate": "2026-11-05",
+      "sourceLabel": "OpenAI 官方模型文档",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-cyber"
     },
     {
-      "title": "Dharma 推出 2B 文档字段提取模型，按自定义结构返回 JSON",
-      "summary": "Dharma Field Extractor 可从文档图像提取字段，支持自动发现键值，或按指定字段名、类型、表格与嵌套结构输出 JSON。团队提供需登录的网页试用入口。",
-      "eventDate": "2026-11-04",
-      "sourceLabel": "Dharma AI 团队博客",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      "title": "Google 在 GKE 正式提供 Agent Substrate 1.0",
+      "summary": "新版将智能体状态与执行资源分离，空闲时保存状态，接到任务后按需恢复。Google 同时宣布向 CNCF 捐赠 Agent Substrate、gVisor 和 OpenRL，三个项目仍在完成 Sandbox 接入。",
+      "eventDate": "2026-11-05",
+      "sourceLabel": "Google Cloud 官方博客",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf"
+    },
+    {
+      "title": "LeRobot 0.7.0 支持在机器人运行中用语言调整任务",
+      "summary": "新版可在保持机器人连接的同时切换子任务；配合支持文本生成的策略或外部视觉语言规划器，还能提问或让机器人拆解新目标。训练可从 Hub、存储桶或 LanceDB 流式读取数据，无需预下载完整数据集。",
+      "eventDate": "2026-11-05",
+      "sourceLabel": "LeRobot 团队博客",
+      "url": "https://huggingface.co/blog/lerobot/lerobot-release-v070"
     }
   ]
 }
