@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-11
+
+整理日期：**2026-11-11** · 关注 AI 产品、模型与工具动态。
+
+- **Google 在美国开放医疗版 Gemini 预览**（事件日期：2026-11-10）
+  医疗机构和医保支付方可按现有权限连接病历和理赔系统，用 Gemini 整理病史、准备就诊资料和事前授权审核材料。输出附可追溯的出处，Epic 和 Oracle 的病历连接器为只读。 [查看Google Cloud原文](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare)
+
+- **AWS 正式推出 AgentCore 网页搜索 API**（事件日期：2026-11-10）
+  应用可以直接调用 API 获取按相关性排序的网页结果，并按域名和发布时间筛选。AWS 此前通过 AgentCore Gateway 提供网页搜索工具，新接口省去了配置网关的步骤。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/)
+
+- **Figma 团队公布 SVG 动效评测 MotionGraphicsBench**（事件日期：2026-11-10）
+  这套评测让模型根据文字要求为 100 个现有 SVG 图形添加动画，再用程序逐项检查姿势、路径和时序。团队公开了评测数据和验证代码，便于复测。 [查看Figma 团队原文](https://huggingface.co/blog/figma-ai/motion-graphics-bench)
+
+- **GitHub Copilot CLI 自动配置 MSBuild 的 C++ 代码导航**（事件日期：2026-11-10）
+  安装微软 C++ 语言服务器插件后，Copilot CLI 打开 MSBuild 项目时会自动生成编译数据库，支持跳转到定义和查找引用。使用该插件需要有效的 Copilot 订阅。 [查看GitHub原文](https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds/)
+
+- **IBM 与微软发布企业智能体平台 Imagine Enterprise**（事件日期：2026-11-10）
+  平台让企业用现有数据和系统构建、运行和管理智能体，提供访问控制与运行监测。首批行业框架覆盖金融服务、保险和零售，客户可通过 IBM 咨询团队部署。 [查看IBM原文](https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation)
+
 ## 2026-11-06
 
 整理日期：**2026-11-06** · 关注 AI 产品、模型与工具动态。

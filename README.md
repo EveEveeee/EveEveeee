@@ -55,19 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-06** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-11** · 关注 AI 产品、模型与工具动态。
 
-- **Gemini Omni 1.2 Flash 在 Google Cloud 正式可用**（事件日期：2026-11-06）
-  新版支持生成和编辑最长 15 秒的视频，也可用对话反复修改同一片段。现可通过 Google Vids 和 Google Cloud API 使用，音频参考仅向获准用户开放。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available)
+- **Google 在美国开放医疗版 Gemini 预览**（事件日期：2026-11-10）
+  医疗机构和医保支付方可按现有权限连接病历和理赔系统，用 Gemini 整理病史、准备就诊资料和事前授权审核材料。输出附可追溯的出处，Epic 和 Oracle 的病历连接器为只读。 [查看Google Cloud原文](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare)
 
-- **OpenAI 发布面向授权安全测试的 GPT-6-Cyber**（事件日期：2026-11-05）
-  模型用于调查漏洞、在授权环境中复现问题并验证修复。API 仅向获得 Daybreak Red 资格及该模型额外审批的组织开放，调用须使用获准项目及白名单内的来源 IP。 [查看OpenAI 官方模型文档原文](https://developers.openai.com/api/docs/models/gpt-6-cyber)
+- **AWS 正式推出 AgentCore 网页搜索 API**（事件日期：2026-11-10）
+  应用可以直接调用 API 获取按相关性排序的网页结果，并按域名和发布时间筛选。AWS 此前通过 AgentCore Gateway 提供网页搜索工具，新接口省去了配置网关的步骤。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/)
 
-- **Google 在 GKE 正式提供 Agent Substrate 1.0**（事件日期：2026-11-05）
-  新版将智能体状态与执行资源分离，空闲时保存状态，接到任务后按需恢复。Google 同时宣布向 CNCF 捐赠 Agent Substrate、gVisor 和 OpenRL，三个项目仍在完成 Sandbox 接入。 [查看Google Cloud 官方博客原文](https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf)
+- **Figma 团队公布 SVG 动效评测 MotionGraphicsBench**（事件日期：2026-11-10）
+  这套评测让模型根据文字要求为 100 个现有 SVG 图形添加动画，再用程序逐项检查姿势、路径和时序。团队公开了评测数据和验证代码，便于复测。 [查看Figma 团队原文](https://huggingface.co/blog/figma-ai/motion-graphics-bench)
 
-- **LeRobot 0.7.0 支持在机器人运行中用语言调整任务**（事件日期：2026-11-05）
-  新版可在保持机器人连接的同时切换子任务；配合支持文本生成的策略或外部视觉语言规划器，还能提问或让机器人拆解新目标。训练可从 Hub、存储桶或 LanceDB 流式读取数据，无需预下载完整数据集。 [查看LeRobot 团队博客原文](https://huggingface.co/blog/lerobot/lerobot-release-v070)
+- **GitHub Copilot CLI 自动配置 MSBuild 的 C++ 代码导航**（事件日期：2026-11-10）
+  安装微软 C++ 语言服务器插件后，Copilot CLI 打开 MSBuild 项目时会自动生成编译数据库，支持跳转到定义和查找引用。使用该插件需要有效的 Copilot 订阅。 [查看GitHub原文](https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds/)
+
+- **IBM 与微软发布企业智能体平台 Imagine Enterprise**（事件日期：2026-11-10）
+  平台让企业用现有数据和系统构建、运行和管理智能体，提供访问控制与运行监测。首批行业框架覆盖金融服务、保险和零售，客户可通过 IBM 咨询团队部署。 [查看IBM原文](https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
