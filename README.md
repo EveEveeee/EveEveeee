@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-11** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-12** · 关注 AI 产品、模型与工具动态。
 
-- **Google 在美国开放医疗版 Gemini 预览**（事件日期：2026-11-10）
-  医疗机构和医保支付方可按现有权限连接病历和理赔系统，用 Gemini 整理病史、准备就诊资料和事前授权审核材料。输出附可追溯的出处，Epic 和 Oracle 的病历连接器为只读。 [查看Google Cloud原文](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare)
+- **阿里云开放通义千问 Qwen4-Max 限时预览**（事件日期：2026-11-11）
+  新旗舰模型支持 100 万 token 上下文、图像和视频理解及工具调用。预览通过阿里云百炼 Token Plan 开放，持续至北京时间 11 月 25 日 24 时。 [查看阿里云原文](https://help.aliyun.com/zh/model-studio/qwen4-max-preview)
 
-- **AWS 正式推出 AgentCore 网页搜索 API**（事件日期：2026-11-10）
-  应用可以直接调用 API 获取按相关性排序的网页结果，并按域名和发布时间筛选。AWS 此前通过 AgentCore Gateway 提供网页搜索工具，新接口省去了配置网关的步骤。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/)
+- **百度发布文心 ERNIE 5.5 Flash 预览版**（事件日期：2026-11-11）
+  这是 ERNIE 5.5 Flash Base 的首个后训练版本，支持 100 万 token 上下文，百度展示了编程和 3D 建模用例。API 已在千帆上线，百度计划于 11 月 25 日前公开权重。 [查看百度文心原文](https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/)
 
-- **Figma 团队公布 SVG 动效评测 MotionGraphicsBench**（事件日期：2026-11-10）
-  这套评测让模型根据文字要求为 100 个现有 SVG 图形添加动画，再用程序逐项检查姿势、路径和时序。团队公开了评测数据和验证代码，便于复测。 [查看Figma 团队原文](https://huggingface.co/blog/figma-ai/motion-graphics-bench)
+- **Google 推出多模态 Gemini Decisions API**（事件日期：2026-11-11）
+  开发者可用同一份文本、图片、音频、视频或 PDF，一次提交最多 1,000 道独立的判断、选择或评分问题。接口返回候选项的概率，可用于请求分流和规则检查，已可通过 Gemini API 接入。 [查看Google原文](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
-- **GitHub Copilot CLI 自动配置 MSBuild 的 C++ 代码导航**（事件日期：2026-11-10）
-  安装微软 C++ 语言服务器插件后，Copilot CLI 打开 MSBuild 项目时会自动生成编译数据库，支持跳转到定义和查找引用。使用该插件需要有效的 Copilot 订阅。 [查看GitHub原文](https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds/)
+- **Gemini Live 开始登陆 Apple CarPlay**（事件日期：2026-11-11）
+  Google 开始向 iOS 用户逐步推出车载语音对话。用户可用语音查看日程、整理邮件，对话也会同步到 iPhone。首次使用前需更新 Gemini 应用、开启麦克风权限，并在手机上用过 Gemini Live。 [查看Google原文](https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/)
 
-- **IBM 与微软发布企业智能体平台 Imagine Enterprise**（事件日期：2026-11-10）
-  平台让企业用现有数据和系统构建、运行和管理智能体，提供访问控制与运行监测。首批行业框架覆盖金融服务、保险和零售，客户可通过 IBM 咨询团队部署。 [查看IBM原文](https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation)
+- **Tether 公开端侧智能体模型 BotPsy-0.8B**（事件日期：2026-11-11）
+  这款 8 亿参数模型面向手机和电脑上的工具调用。接入应用后可为日历、邮件等任务选择工具并填写参数，应用负责执行。模型权重采用 Apache 2.0 许可。 [查看Tether QVAC原文](https://qvac.tether.io/blog/on-device-ai-agent-botpsy)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
