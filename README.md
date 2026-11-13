@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-12** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-13** · 关注 AI 产品、模型与工具动态。
 
-- **阿里云开放通义千问 Qwen4-Max 限时预览**（事件日期：2026-11-11）
-  新旗舰模型支持 100 万 token 上下文、图像和视频理解及工具调用。预览通过阿里云百炼 Token Plan 开放，持续至北京时间 11 月 25 日 24 时。 [查看阿里云原文](https://help.aliyun.com/zh/model-studio/qwen4-max-preview)
+- **Google 发布 Gemini 4 Hydrogen**（事件日期：2026-11-12）
+  这款模型面向日常编程和智能体任务，支持多模态输入、工具调用及约 100 万 token 的上下文。Google 开始将它推向 Gemini API、AI Studio、Gemini 应用和搜索。 [查看Google原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 
-- **百度发布文心 ERNIE 5.5 Flash 预览版**（事件日期：2026-11-11）
-  这是 ERNIE 5.5 Flash Base 的首个后训练版本，支持 100 万 token 上下文，百度展示了编程和 3D 建模用例。API 已在千帆上线，百度计划于 11 月 25 日前公开权重。 [查看百度文心原文](https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/)
+- **Anthropic 开放 Claude Managed Agents 自托管内测**（事件日期：2026-11-12）
+  企业可在自有云或本地部署智能体运行框架、沙箱、凭证和会话历史，继续使用现有核心 API。模型请求可发往 Anthropic、受支持的云平台或企业自己的网关。 [查看Anthropic原文](https://claude.com/resources/articles/self-hosted-claude-managed-agents)
 
-- **Google 推出多模态 Gemini Decisions API**（事件日期：2026-11-11）
-  开发者可用同一份文本、图片、音频、视频或 PDF，一次提交最多 1,000 道独立的判断、选择或评分问题。接口返回候选项的概率，可用于请求分流和规则检查，已可通过 Gemini API 接入。 [查看Google原文](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+- **Salesforce 公开语音转写模型 SOV-Transcribe-1 的权重**（事件日期：2026-11-12）
+  这款非流式模型支持多语言转写。开发者可用自然语言指定输出格式，也可提供领域关键词帮助识别专有名词。模型权重采用 Apache 2.0 许可。 [查看Salesforce原文](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1)
 
-- **Gemini Live 开始登陆 Apple CarPlay**（事件日期：2026-11-11）
-  Google 开始向 iOS 用户逐步推出车载语音对话。用户可用语音查看日程、整理邮件，对话也会同步到 iPhone。首次使用前需更新 Gemini 应用、开启麦克风权限，并在手机上用过 Gemini Live。 [查看Google原文](https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/)
+- **AWS 为新建 AgentCore 运行时默认启用 V2**（事件日期：2026-11-12）
+  新版从初始化快照恢复会话，随负载调整计算和内存，空闲时缩容到零。AWS 在 2 GB 镜像测试中测得，75% 的会话在不到 2 秒内启动。现有运行时可自行迁移。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/)
 
-- **Tether 公开端侧智能体模型 BotPsy-0.8B**（事件日期：2026-11-11）
-  这款 8 亿参数模型面向手机和电脑上的工具调用。接入应用后可为日历、邮件等任务选择工具并填写参数，应用负责执行。模型权重采用 Apache 2.0 许可。 [查看Tether QVAC原文](https://qvac.tether.io/blog/on-device-ai-agent-botpsy)
+- **OpenAI 更新 JavaScript Agents SDK 的工具审批处理**（事件日期：2026-11-12）
+  0.22.0 版会在工具审批尚未完成时推迟自动压缩 Responses 会话。应用也可以读取发现 MCP 工具时返回的注解。 [查看OpenAI原文](https://github.com/openai/openai-agents-js/releases/tag/@openai/agents-core@0.22.0)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->

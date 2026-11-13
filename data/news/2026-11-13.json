@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-11-13",
+  "items": [
+    {
+      "title": "Google 发布 Gemini 4 Hydrogen",
+      "summary": "这款模型面向日常编程和智能体任务，支持多模态输入、工具调用及约 100 万 token 的上下文。Google 开始将它推向 Gemini API、AI Studio、Gemini 应用和搜索。",
+      "eventDate": "2026-11-12",
+      "sourceLabel": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "title": "Anthropic 开放 Claude Managed Agents 自托管内测",
+      "summary": "企业可在自有云或本地部署智能体运行框架、沙箱、凭证和会话历史，继续使用现有核心 API。模型请求可发往 Anthropic、受支持的云平台或企业自己的网关。",
+      "eventDate": "2026-11-12",
+      "sourceLabel": "Anthropic",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+    },
+    {
+      "title": "Salesforce 公开语音转写模型 SOV-Transcribe-1 的权重",
+      "summary": "这款非流式模型支持多语言转写。开发者可用自然语言指定输出格式，也可提供领域关键词帮助识别专有名词。模型权重采用 Apache 2.0 许可。",
+      "eventDate": "2026-11-12",
+      "sourceLabel": "Salesforce",
+      "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1"
+    },
+    {
+      "title": "AWS 为新建 AgentCore 运行时默认启用 V2",
+      "summary": "新版从初始化快照恢复会话，随负载调整计算和内存，空闲时缩容到零。AWS 在 2 GB 镜像测试中测得，75% 的会话在不到 2 秒内启动。现有运行时可自行迁移。",
+      "eventDate": "2026-11-12",
+      "sourceLabel": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/"
+    },
+    {
+      "title": "OpenAI 更新 JavaScript Agents SDK 的工具审批处理",
+      "summary": "0.22.0 版会在工具审批尚未完成时推迟自动压缩 Responses 会话。应用也可以读取发现 MCP 工具时返回的注解。",
+      "eventDate": "2026-11-12",
+      "sourceLabel": "OpenAI",
+      "url": "https://github.com/openai/openai-agents-js/releases/tag/@openai/agents-core@0.22.0"
+    }
+  ]
+}
