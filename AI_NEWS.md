@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-14
+
+整理日期：**2026-11-14** · 关注 AI 产品、模型与工具动态。
+
+- **OpenAI 推出 ChatGPT Wallet，支持智能体代购**（事件日期：2026-11-13）
+  首批通过 dots 向符合条件的美国成年 ChatGPT Pro 用户逐步开放。每笔支付前，用户都要核对商家、商品、金额和付款卡，再通过面容或指纹确认。商家和智能体使用替代支付凭证。 [查看OpenAI原文](https://openai.com/index/introducing-chatgpt-wallet/)
+
+- **llama.cpp 与 ggml 发布 1.0.0，明确接口兼容规则**（事件日期：2026-11-13）
+  本地推理库 libllama 和张量库 libggml 开始采用语义化版本。公共 C 接口有不兼容变更时提升主版本号，兼容的新功能、模型或后端支持提升次版本号。 [查看ggml 团队原文](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+
+- **GitHub Copilot 桌面应用正式支持 GitHub Enterprise Server**（事件日期：2026-11-13）
+  1.2.0 及以上版本可关联自托管的 GitHub Enterprise Server 账号，处理远程仓库、议题和拉取请求。用户需先登录 GitHub.com 或 GHE.com，GHES 会话在本地运行。 [查看GitHub原文](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app/)
+
+- **Codex CLI 增加多标签侧栏对话和历史任务搜索**（事件日期：2026-11-13）
+  在 0.169.0 版启用终端工作区后，用户可用键盘或鼠标切换侧栏对话，重启后还能恢复已保存的本地对话。任务中心可按名称、提示词预览或工作目录查找历史任务。 [查看OpenAI原文](https://github.com/openai/codex/releases/tag/rust-v0.169.0)
+
+- **Ai2 公布 XYBench 评测结果，检验模型能否识别提问中的误解**（事件日期：2026-11-13）
+  评测包含 8,115 道英语题，涵盖编程、烹饪和家装等场景。五款受测模型在单轮测试中容易沿用用户提出的做法，即使那种做法无法解决用户真正的问题。 [查看Ai2原文](https://allenai.org/blog/xybench)
+
 ## 2026-11-13
 
 整理日期：**2026-11-13** · 关注 AI 产品、模型与工具动态。

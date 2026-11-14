@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-13** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-14** · 关注 AI 产品、模型与工具动态。
 
-- **Google 发布 Gemini 4 Hydrogen**（事件日期：2026-11-12）
-  这款模型面向日常编程和智能体任务，支持多模态输入、工具调用及约 100 万 token 的上下文。Google 开始将它推向 Gemini API、AI Studio、Gemini 应用和搜索。 [查看Google原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+- **OpenAI 推出 ChatGPT Wallet，支持智能体代购**（事件日期：2026-11-13）
+  首批通过 dots 向符合条件的美国成年 ChatGPT Pro 用户逐步开放。每笔支付前，用户都要核对商家、商品、金额和付款卡，再通过面容或指纹确认。商家和智能体使用替代支付凭证。 [查看OpenAI原文](https://openai.com/index/introducing-chatgpt-wallet/)
 
-- **Anthropic 开放 Claude Managed Agents 自托管内测**（事件日期：2026-11-12）
-  企业可在自有云或本地部署智能体运行框架、沙箱、凭证和会话历史，继续使用现有核心 API。模型请求可发往 Anthropic、受支持的云平台或企业自己的网关。 [查看Anthropic原文](https://claude.com/resources/articles/self-hosted-claude-managed-agents)
+- **llama.cpp 与 ggml 发布 1.0.0，明确接口兼容规则**（事件日期：2026-11-13）
+  本地推理库 libllama 和张量库 libggml 开始采用语义化版本。公共 C 接口有不兼容变更时提升主版本号，兼容的新功能、模型或后端支持提升次版本号。 [查看ggml 团队原文](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
 
-- **Salesforce 公开语音转写模型 SOV-Transcribe-1 的权重**（事件日期：2026-11-12）
-  这款非流式模型支持多语言转写。开发者可用自然语言指定输出格式，也可提供领域关键词帮助识别专有名词。模型权重采用 Apache 2.0 许可。 [查看Salesforce原文](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1)
+- **GitHub Copilot 桌面应用正式支持 GitHub Enterprise Server**（事件日期：2026-11-13）
+  1.2.0 及以上版本可关联自托管的 GitHub Enterprise Server 账号，处理远程仓库、议题和拉取请求。用户需先登录 GitHub.com 或 GHE.com，GHES 会话在本地运行。 [查看GitHub原文](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app/)
 
-- **AWS 为新建 AgentCore 运行时默认启用 V2**（事件日期：2026-11-12）
-  新版从初始化快照恢复会话，随负载调整计算和内存，空闲时缩容到零。AWS 在 2 GB 镜像测试中测得，75% 的会话在不到 2 秒内启动。现有运行时可自行迁移。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/)
+- **Codex CLI 增加多标签侧栏对话和历史任务搜索**（事件日期：2026-11-13）
+  在 0.169.0 版启用终端工作区后，用户可用键盘或鼠标切换侧栏对话，重启后还能恢复已保存的本地对话。任务中心可按名称、提示词预览或工作目录查找历史任务。 [查看OpenAI原文](https://github.com/openai/codex/releases/tag/rust-v0.169.0)
 
-- **OpenAI 更新 JavaScript Agents SDK 的工具审批处理**（事件日期：2026-11-12）
-  0.22.0 版会在工具审批尚未完成时推迟自动压缩 Responses 会话。应用也可以读取发现 MCP 工具时返回的注解。 [查看OpenAI原文](https://github.com/openai/openai-agents-js/releases/tag/@openai/agents-core@0.22.0)
+- **Ai2 公布 XYBench 评测结果，检验模型能否识别提问中的误解**（事件日期：2026-11-13）
+  评测包含 8,115 道英语题，涵盖编程、烹饪和家装等场景。五款受测模型在单轮测试中容易沿用用户提出的做法，即使那种做法无法解决用户真正的问题。 [查看Ai2原文](https://allenai.org/blog/xybench)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
