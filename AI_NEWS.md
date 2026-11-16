@@ -2,6 +2,22 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-15
+
+整理日期：**2026-11-15** · 关注 AI 产品、模型与工具动态。
+
+- **DeepSeek 向开发者开放对话应用 API**（事件日期：2026-11-13）
+  deepseek-flash 的对话接口现在可接入联网搜索、文件输入和链接阅读。工具调用和上下文拼接由服务端完成。开发者也可单独调用文字识别、语音识别和语音合成接口。 [查看DeepSeek原文](https://api-docs.deepseek.com/zh-cn/updates/)
+
+- **Sierra 发布个人智能体协议 Poppy 1.0**（事件日期：2026-11-13）
+  这套开放协议让个人智能体通过企业网站、API 或企业智能体办理事务，用户可通过 OAuth 控制授权范围。Shopify 已向平台商家启用，Meta 的 Muse 也开始使用这一协议。 [查看Sierra原文](https://sierra.ai/blog/releasing-poppy)
+
+- **Cloudflare 开源智能体浏览器引擎 Kitesurf**（事件日期：2026-11-13）
+  这款轻量引擎可执行网页 JavaScript、生成截图，并通过 Chrome DevTools 协议连接自动化工具。开发者可在本地运行，也可部署到自己的 Cloudflare Workers。源码采用 Apache 2.0 许可。 [查看Cloudflare原文](https://blog.cloudflare.com/kitesurf-open-source/)
+
+- **Factory Droid 1.12.0 改善工具调用记录**（事件日期：2026-11-14）
+  终端版和桌面版的工具调用记录现在会显示 Droid 命令、连接器和 MCP 工具的所属类别与具体能力。撤销服务账号密钥时，系统也会记录一条组织审计日志。 [查看Factory原文](https://docs.factory.com/changelog/release-notes)
+
 ## 2026-11-14
 
 整理日期：**2026-11-14** · 关注 AI 产品、模型与工具动态。
