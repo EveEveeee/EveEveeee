@@ -1,33 +1,40 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "items": [
     {
-      "title": "DeepSeek 向开发者开放对话应用 API",
-      "summary": "deepseek-flash 的对话接口现在可接入联网搜索、文件输入和链接阅读。工具调用和上下文拼接由服务端完成。开发者也可单独调用文字识别、语音识别和语音合成接口。",
-      "eventDate": "2026-11-13",
-      "sourceLabel": "DeepSeek",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      "title": "火山方舟开放 Seedance 2.5 Flash 在线体验和 API",
+      "summary": "视频生成模型支持文本生成、首尾帧控制，也可参考图片、视频和音频生成或编辑片段。单次最长生成 30 秒，可选 480p 或 720p。",
+      "eventDate": "2026-11-15",
+      "sourceLabel": "火山方舟",
+      "url": "https://console.volcengine.com/ark/region:cn-beijing/docs/create-video-generation-task-api"
     },
     {
-      "title": "Sierra 发布个人智能体协议 Poppy 1.0",
-      "summary": "这套开放协议让个人智能体通过企业网站、API 或企业智能体办理事务，用户可通过 OAuth 控制授权范围。Shopify 已向平台商家启用，Meta 的 Muse 也开始使用这一协议。",
-      "eventDate": "2026-11-13",
-      "sourceLabel": "Sierra",
-      "url": "https://sierra.ai/blog/releasing-poppy"
+      "title": "美团发布音频驱动视频模型 LongCat-Video-Avatar 1.6",
+      "summary": "这款音频驱动的数字人视频模型改善了说话时的口型、面部和身体动作，也减少了长视频续生成时的误差累积。代码与权重可从项目页获取。",
+      "eventDate": "2026-11-15",
+      "sourceLabel": "美团 LongCat",
+      "url": "https://github.com/meituan-longcat/LongCat-Video#news"
     },
     {
-      "title": "Cloudflare 开源智能体浏览器引擎 Kitesurf",
-      "summary": "这款轻量引擎可执行网页 JavaScript、生成截图，并通过 Chrome DevTools 协议连接自动化工具。开发者可在本地运行，也可部署到自己的 Cloudflare Workers。源码采用 Apache 2.0 许可。",
-      "eventDate": "2026-11-13",
-      "sourceLabel": "Cloudflare",
-      "url": "https://blog.cloudflare.com/kitesurf-open-source/"
+      "title": "OpenAI 开设科学博客，首篇回顾 Astra 辅助物理论证",
+      "summary": "物理学家 Nathaniel Craig 回顾了 10 月预印本的研究过程。GPT-6 Astra 协助他把原有思路发展为粒子物理标准模型的一种候选格点定义。该定义能否用于实际模拟仍有待研究。",
+      "eventDate": "2026-11-15",
+      "sourceLabel": "OpenAI",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/"
     },
     {
-      "title": "Factory Droid 1.12.0 改善工具调用记录",
-      "summary": "终端版和桌面版的工具调用记录现在会显示 Droid 命令、连接器和 MCP 工具的所属类别与具体能力。撤销服务账号密钥时，系统也会记录一条组织审计日志。",
+      "title": "AutoGPT 平台测试版接入 Gemini 4 Hydrogen 与 Carbon",
+      "summary": "0.11.3 测试版新增两款 Gemini 模型。助手 Otto 加入图表、时间线等可视卡片回答，需要开启相应功能。",
+      "eventDate": "2026-11-15",
+      "sourceLabel": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.3"
+    },
+    {
+      "title": "Datasette 的模型插件支持直接连接兼容接口",
+      "summary": "datasette-llm 0.1a11 测试版允许直接配置兼容 OpenAI Chat Completions 或 Responses 的服务地址。Datasette 的其他插件可借此调用本地或托管模型。",
       "eventDate": "2026-11-14",
-      "sourceLabel": "Factory",
-      "url": "https://docs.factory.com/changelog/release-notes"
+      "sourceLabel": "Datasette",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a11"
     }
   ]
 }

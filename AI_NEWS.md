@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-16
+
+整理日期：**2026-11-16** · 关注 AI 产品、模型与工具动态。
+
+- **火山方舟开放 Seedance 2.5 Flash 在线体验和 API**（事件日期：2026-11-15）
+  视频生成模型支持文本生成、首尾帧控制，也可参考图片、视频和音频生成或编辑片段。单次最长生成 30 秒，可选 480p 或 720p。 [查看火山方舟原文](https://console.volcengine.com/ark/region:cn-beijing/docs/create-video-generation-task-api)
+
+- **美团发布音频驱动视频模型 LongCat-Video-Avatar 1.6**（事件日期：2026-11-15）
+  这款音频驱动的数字人视频模型改善了说话时的口型、面部和身体动作，也减少了长视频续生成时的误差累积。代码与权重可从项目页获取。 [查看美团 LongCat原文](https://github.com/meituan-longcat/LongCat-Video#news)
+
+- **OpenAI 开设科学博客，首篇回顾 Astra 辅助物理论证**（事件日期：2026-11-15）
+  物理学家 Nathaniel Craig 回顾了 10 月预印本的研究过程。GPT-6 Astra 协助他把原有思路发展为粒子物理标准模型的一种候选格点定义。该定义能否用于实际模拟仍有待研究。 [查看OpenAI原文](https://openai.com/index/step-toward-defining-the-standard-model/)
+
+- **AutoGPT 平台测试版接入 Gemini 4 Hydrogen 与 Carbon**（事件日期：2026-11-15）
+  0.11.3 测试版新增两款 Gemini 模型。助手 Otto 加入图表、时间线等可视卡片回答，需要开启相应功能。 [查看AutoGPT原文](https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.3)
+
+- **Datasette 的模型插件支持直接连接兼容接口**（事件日期：2026-11-14）
+  datasette-llm 0.1a11 测试版允许直接配置兼容 OpenAI Chat Completions 或 Responses 的服务地址。Datasette 的其他插件可借此调用本地或托管模型。 [查看Datasette原文](https://github.com/datasette/datasette-llm/releases/tag/0.1a11)
+
 ## 2026-11-15
 
 整理日期：**2026-11-15** · 关注 AI 产品、模型与工具动态。
