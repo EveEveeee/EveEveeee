@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-16** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-17** · 关注 AI 产品、模型与工具动态。
 
-- **火山方舟开放 Seedance 2.5 Flash 在线体验和 API**（事件日期：2026-11-15）
-  视频生成模型支持文本生成、首尾帧控制，也可参考图片、视频和音频生成或编辑片段。单次最长生成 30 秒，可选 480p 或 720p。 [查看火山方舟原文](https://console.volcengine.com/ark/region:cn-beijing/docs/create-video-generation-task-api)
+- **阿里云正式上线 Qwen4-Max API**（事件日期：2026-11-16）
+  接续 11 月 11 日的限时预览，正式版现已在阿里云百炼的中国内地和国际部署范围开放。模型支持约 100 万 token 的上下文、图像和视频理解，以及工具调用。 [查看阿里云原文](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)
 
-- **美团发布音频驱动视频模型 LongCat-Video-Avatar 1.6**（事件日期：2026-11-15）
-  这款音频驱动的数字人视频模型改善了说话时的口型、面部和身体动作，也减少了长视频续生成时的误差累积。代码与权重可从项目页获取。 [查看美团 LongCat原文](https://github.com/meituan-longcat/LongCat-Video#news)
+- **Hugging Face 将语言模型推理切换至 OpenRouter 路由**（事件日期：2026-11-16）
+  系统按实时价格、速度和可靠性选择服务商，失败时会尝试换一家。用户仍可使用原有 Hugging Face 接口和令牌，语言模型调用由 Hugging Face 统一结算。 [查看Hugging Face原文](https://huggingface.co/blog/openrouter)
 
-- **OpenAI 开设科学博客，首篇回顾 Astra 辅助物理论证**（事件日期：2026-11-15）
-  物理学家 Nathaniel Craig 回顾了 10 月预印本的研究过程。GPT-6 Astra 协助他把原有思路发展为粒子物理标准模型的一种候选格点定义。该定义能否用于实际模拟仍有待研究。 [查看OpenAI原文](https://openai.com/index/step-toward-defining-the-standard-model/)
+- **OpenAI 为医疗版 ChatGPT 加入跨系统操作能力**（事件日期：2026-11-16）
+  医疗团队可用智能体在已有软件间处理转诊、准备文书等工作，并设置应用访问范围和人工审核步骤。更新还改进了临床证据检索和引用，并为机构版增加 20 多个医疗插件。 [查看OpenAI原文](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/)
 
-- **AutoGPT 平台测试版接入 Gemini 4 Hydrogen 与 Carbon**（事件日期：2026-11-15）
-  0.11.3 测试版新增两款 Gemini 模型。助手 Otto 加入图表、时间线等可视卡片回答，需要开启相应功能。 [查看AutoGPT原文](https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.3)
+- **Liquid AI 发布 d1.2 和 d1.2-ultra 决策模型**（事件日期：2026-11-16）
+  两款模型已接入 Liquid API，新增音频输入，并支持从材料提取指定值、在图片中定位物体及多选分类等任务。 [查看Liquid AI原文](https://www.liquid.ai/blog/d1-2)
 
-- **Datasette 的模型插件支持直接连接兼容接口**（事件日期：2026-11-14）
-  datasette-llm 0.1a11 测试版允许直接配置兼容 OpenAI Chat Completions 或 Responses 的服务地址。Datasette 的其他插件可借此调用本地或托管模型。 [查看Datasette原文](https://github.com/datasette/datasette-llm/releases/tag/0.1a11)
+- **Amazon WorkSpaces 为企业智能体加入会话回放**（事件日期：2026-11-16）
+  管理员可让智能体沿用用户的目录身份和权限。回放把会话截图合成视频，并附上操作记录，文件保存在企业自己的 Amazon S3 存储桶中。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
