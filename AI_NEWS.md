@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-19
+
+整理日期：**2026-11-19** · 关注 AI 产品、模型与工具动态。
+
+- **Google 发布 Gemini 4 Neon，强化复杂编码与多步任务**（事件日期：2026-11-18）
+  支持百万 token 上下文，提供四档思考强度。已开始向 Gemini API 付费层、Gemini 企业版，以及 Pro、Ultra 用户的 Gemini 应用和 Antigravity 推出。 [查看Google原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+
+- **Project Genie 向 Ultra 用户开放 Genie 4**（事件日期：2026-11-18）
+  符合条件的 Google AI Ultra 用户可在浏览器生成互动世界，用文字实时改变场景，并获得随场景变化的原生音频。新版加入创作智能体和社区画廊，Pro 用户可加入候补名单。 [查看Google DeepMind原文](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+
+- **ChatGPT 推出实时听写，取消十分钟录音上限**（事件日期：2026-11-18）
+  语音可在说话时持续转成文字，点击录音波形即可显示或隐藏转写内容。该功能正向所有套餐的 iOS、Android、网页版和桌面应用逐步推出。 [查看OpenAI原文](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+
+- **RadixArk 开放 DaisyRose-27B 智能体模型权重**（事件日期：2026-11-18）
+  基于 Qwen3.8-27B，通过长程智能体任务强化训练，保留 256K 上下文与图像理解能力。BF16、FP8 和 NVFP4 权重以 Apache 2.0 许可发布，并提供 SGLang 部署指引。 [查看RadixArk原文](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+
+- **GitHub Copilot 新增 Supabase 等八项服务连接器**（事件日期：2026-11-18）
+  新增 Box、Buildkite、Calendly、ClickUp、Mixpanel、Supabase、Webflow 和 Wix 的 MCP 连接器，面向所有 Copilot 套餐公开测试。企业使用需管理员启用相应策略，部分服务还需单独授权。 [查看GitHub原文](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot/)
+
 ## 2026-11-17
 
 整理日期：**2026-11-17** · 关注 AI 产品、模型与工具动态。

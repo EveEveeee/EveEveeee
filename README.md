@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-17** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-19** · 关注 AI 产品、模型与工具动态。
 
-- **阿里云正式上线 Qwen4-Max API**（事件日期：2026-11-16）
-  接续 11 月 11 日的限时预览，正式版现已在阿里云百炼的中国内地和国际部署范围开放。模型支持约 100 万 token 的上下文、图像和视频理解，以及工具调用。 [查看阿里云原文](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)
+- **Google 发布 Gemini 4 Neon，强化复杂编码与多步任务**（事件日期：2026-11-18）
+  支持百万 token 上下文，提供四档思考强度。已开始向 Gemini API 付费层、Gemini 企业版，以及 Pro、Ultra 用户的 Gemini 应用和 Antigravity 推出。 [查看Google原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-- **Hugging Face 将语言模型推理切换至 OpenRouter 路由**（事件日期：2026-11-16）
-  系统按实时价格、速度和可靠性选择服务商，失败时会尝试换一家。用户仍可使用原有 Hugging Face 接口和令牌，语言模型调用由 Hugging Face 统一结算。 [查看Hugging Face原文](https://huggingface.co/blog/openrouter)
+- **Project Genie 向 Ultra 用户开放 Genie 4**（事件日期：2026-11-18）
+  符合条件的 Google AI Ultra 用户可在浏览器生成互动世界，用文字实时改变场景，并获得随场景变化的原生音频。新版加入创作智能体和社区画廊，Pro 用户可加入候补名单。 [查看Google DeepMind原文](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 
-- **OpenAI 为医疗版 ChatGPT 加入跨系统操作能力**（事件日期：2026-11-16）
-  医疗团队可用智能体在已有软件间处理转诊、准备文书等工作，并设置应用访问范围和人工审核步骤。更新还改进了临床证据检索和引用，并为机构版增加 20 多个医疗插件。 [查看OpenAI原文](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/)
+- **ChatGPT 推出实时听写，取消十分钟录音上限**（事件日期：2026-11-18）
+  语音可在说话时持续转成文字，点击录音波形即可显示或隐藏转写内容。该功能正向所有套餐的 iOS、Android、网页版和桌面应用逐步推出。 [查看OpenAI原文](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
-- **Liquid AI 发布 d1.2 和 d1.2-ultra 决策模型**（事件日期：2026-11-16）
-  两款模型已接入 Liquid API，新增音频输入，并支持从材料提取指定值、在图片中定位物体及多选分类等任务。 [查看Liquid AI原文](https://www.liquid.ai/blog/d1-2)
+- **RadixArk 开放 DaisyRose-27B 智能体模型权重**（事件日期：2026-11-18）
+  基于 Qwen3.8-27B，通过长程智能体任务强化训练，保留 256K 上下文与图像理解能力。BF16、FP8 和 NVFP4 权重以 Apache 2.0 许可发布，并提供 SGLang 部署指引。 [查看RadixArk原文](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
 
-- **Amazon WorkSpaces 为企业智能体加入会话回放**（事件日期：2026-11-16）
-  管理员可让智能体沿用用户的目录身份和权限。回放把会话截图合成视频，并附上操作记录，文件保存在企业自己的 Amazon S3 存储桶中。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern/)
+- **GitHub Copilot 新增 Supabase 等八项服务连接器**（事件日期：2026-11-18）
+  新增 Box、Buildkite、Calendly、ClickUp、Mixpanel、Supabase、Webflow 和 Wix 的 MCP 连接器，面向所有 Copilot 套餐公开测试。企业使用需管理员启用相应策略，部分服务还需单独授权。 [查看GitHub原文](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->
