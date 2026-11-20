@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-20
+
+整理日期：**2026-11-20** · 关注 AI 产品、模型与工具动态。
+
+- **Gemini Mac 版加入电脑操作能力**（事件日期：2026-11-19）
+  可在后台窗口跨文件、应用和网页完成多步任务，用户可限定权限并批准关键操作。首批面向美国英语、18 岁以上个人账号，需 Apple 芯片 Mac、macOS 15 及 Google AI Plus、Pro 或 Ultra 订阅。 [查看Google原文](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/)
+
+- **GPT-Live-1.1 语音模型开放 API 调用**（事件日期：2026-11-19）
+  开发者可接入能同时听说的语音模型，改进多语言发音、口音一致性和转写。WebRTC 会话还可配置空闲待机，暂停推理并在说话时恢复，待机按较低费率计费。 [查看OpenAI原文](https://developers.openai.com/api/docs/models/gpt-live-1.1)
+
+- **Codex CLI 0.171.0 默认启用终端工作区**（事件日期：2026-11-20）
+  可在主对话旁查看可搜索的文档预览、图片及子智能体记录，并加入设备配对和远程非交互运行。新版还修复切换或恢复会话时草稿、排队消息和中断输入的保存问题。 [查看OpenAI原文](https://github.com/openai/codex/releases/tag/rust-v0.171.0)
+
+- **Gemini API 预览工具按需加载功能**（事件日期：2026-11-19）
+  Interactions API 新增 Tool Retrieval，保留工具名称和描述，按需加载完整参数结构，支持函数和远程 MCP 服务。适用于 Gemini 3.6 及以后模型，功能无单独费用，输入输出仍按模型标准计费。 [查看Google原文](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)
+
+- **Amazon Connect 正式上线 Resolutions 业务处理功能**（事件日期：2026-11-19）
+  管理员可用自然语言或操作规范生成处理计划，明确业务规则和审批阈值。智能体据此跨应用处理退款、争议等请求，人工接手审批与例外，并保留行动和决策记录。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/)
+
 ## 2026-11-19
 
 整理日期：**2026-11-19** · 关注 AI 产品、模型与工具动态。

@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "items": [
     {
-      "title": "Google 发布 Gemini 4 Neon，强化复杂编码与多步任务",
-      "summary": "支持百万 token 上下文，提供四档思考强度。已开始向 Gemini API 付费层、Gemini 企业版，以及 Pro、Ultra 用户的 Gemini 应用和 Antigravity 推出。",
-      "eventDate": "2026-11-18",
+      "title": "Gemini Mac 版加入电脑操作能力",
+      "summary": "可在后台窗口跨文件、应用和网页完成多步任务，用户可限定权限并批准关键操作。首批面向美国英语、18 岁以上个人账号，需 Apple 芯片 Mac、macOS 15 及 Google AI Plus、Pro 或 Ultra 订阅。",
+      "eventDate": "2026-11-19",
       "sourceLabel": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
     },
     {
-      "title": "Project Genie 向 Ultra 用户开放 Genie 4",
-      "summary": "符合条件的 Google AI Ultra 用户可在浏览器生成互动世界，用文字实时改变场景，并获得随场景变化的原生音频。新版加入创作智能体和社区画廊，Pro 用户可加入候补名单。",
-      "eventDate": "2026-11-18",
-      "sourceLabel": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
-    },
-    {
-      "title": "ChatGPT 推出实时听写，取消十分钟录音上限",
-      "summary": "语音可在说话时持续转成文字，点击录音波形即可显示或隐藏转写内容。该功能正向所有套餐的 iOS、Android、网页版和桌面应用逐步推出。",
-      "eventDate": "2026-11-18",
+      "title": "GPT-Live-1.1 语音模型开放 API 调用",
+      "summary": "开发者可接入能同时听说的语音模型，改进多语言发音、口音一致性和转写。WebRTC 会话还可配置空闲待机，暂停推理并在说话时恢复，待机按较低费率计费。",
+      "eventDate": "2026-11-19",
       "sourceLabel": "OpenAI",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+      "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1"
     },
     {
-      "title": "RadixArk 开放 DaisyRose-27B 智能体模型权重",
-      "summary": "基于 Qwen3.8-27B，通过长程智能体任务强化训练，保留 256K 上下文与图像理解能力。BF16、FP8 和 NVFP4 权重以 Apache 2.0 许可发布，并提供 SGLang 部署指引。",
-      "eventDate": "2026-11-18",
-      "sourceLabel": "RadixArk",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      "title": "Codex CLI 0.171.0 默认启用终端工作区",
+      "summary": "可在主对话旁查看可搜索的文档预览、图片及子智能体记录，并加入设备配对和远程非交互运行。新版还修复切换或恢复会话时草稿、排队消息和中断输入的保存问题。",
+      "eventDate": "2026-11-20",
+      "sourceLabel": "OpenAI",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0"
     },
     {
-      "title": "GitHub Copilot 新增 Supabase 等八项服务连接器",
-      "summary": "新增 Box、Buildkite、Calendly、ClickUp、Mixpanel、Supabase、Webflow 和 Wix 的 MCP 连接器，面向所有 Copilot 套餐公开测试。企业使用需管理员启用相应策略，部分服务还需单独授权。",
-      "eventDate": "2026-11-18",
-      "sourceLabel": "GitHub",
-      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot/"
+      "title": "Gemini API 预览工具按需加载功能",
+      "summary": "Interactions API 新增 Tool Retrieval，保留工具名称和描述，按需加载完整参数结构，支持函数和远程 MCP 服务。适用于 Gemini 3.6 及以后模型，功能无单独费用，输入输出仍按模型标准计费。",
+      "eventDate": "2026-11-19",
+      "sourceLabel": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    },
+    {
+      "title": "Amazon Connect 正式上线 Resolutions 业务处理功能",
+      "summary": "管理员可用自然语言或操作规范生成处理计划，明确业务规则和审批阈值。智能体据此跨应用处理退款、争议等请求，人工接手审批与例外，并保留行动和决策记录。",
+      "eventDate": "2026-11-19",
+      "sourceLabel": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/"
     }
   ]
 }
