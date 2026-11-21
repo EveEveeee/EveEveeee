@@ -55,22 +55,22 @@
 <!-- ai-news:start -->
 ## 📰 每日 AI 资讯
 
-整理日期：**2026-11-20** · 关注 AI 产品、模型与工具动态。
+整理日期：**2026-11-21** · 关注 AI 产品、模型与工具动态。
 
-- **Gemini Mac 版加入电脑操作能力**（事件日期：2026-11-19）
-  可在后台窗口跨文件、应用和网页完成多步任务，用户可限定权限并批准关键操作。首批面向美国英语、18 岁以上个人账号，需 Apple 芯片 Mac、macOS 15 及 Google AI Plus、Pro 或 Ultra 订阅。 [查看Google原文](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/)
+- **Thinking Machines 开放 Inkling 2 Mini 图文模型权重**（事件日期：2026-11-20）
+  可接收图像和文字并输出文字，支持最多 100 万 token 上下文，权重采用 Apache 2.0 许可。官方提供 Apple 芯片与 NVIDIA 等平台的本地部署指引。 [查看Thinking Machines Lab原文](https://thinkingmachines.ai/model-card/inkling-2-mini/)
 
-- **GPT-Live-1.1 语音模型开放 API 调用**（事件日期：2026-11-19）
-  开发者可接入能同时听说的语音模型，改进多语言发音、口音一致性和转写。WebRTC 会话还可配置空闲待机，暂停推理并在说话时恢复，待机按较低费率计费。 [查看OpenAI原文](https://developers.openai.com/api/docs/models/gpt-live-1.1)
+- **ChatGPT Space 开始向 Plus 用户开放**（事件日期：2026-11-20）
+  全球 18 岁以上 Plus 用户正逐步获得 Space，可创建交互页面、整理文件并协作编辑。共享对象也需有 Space 使用资格和相应权限，演示文稿功能按账号逐步开放。 [查看OpenAI原文](https://help.openai.com/en/articles/20001549-getting-started-with-space-in-chatgpt)
 
-- **Codex CLI 0.171.0 默认启用终端工作区**（事件日期：2026-11-20）
-  可在主对话旁查看可搜索的文档预览、图片及子智能体记录，并加入设备配对和远程非交互运行。新版还修复切换或恢复会话时草稿、排队消息和中断输入的保存问题。 [查看OpenAI原文](https://github.com/openai/codex/releases/tag/rust-v0.171.0)
+- **OpenAI Agents SDK 预览 Codex 后端接入**（事件日期：2026-11-20）
+  新增可按次运行选择的 Codex 后端，支持 Python 工具、流式输出和类型化结果，可复用已有 Codex 登录。当前为 v1.0.0-alpha.1 预发布版，安装包通过 GitHub Releases 提供。 [查看OpenAI原文](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1)
 
-- **Gemini API 预览工具按需加载功能**（事件日期：2026-11-19）
-  Interactions API 新增 Tool Retrieval，保留工具名称和描述，按需加载完整参数结构，支持函数和远程 MCP 服务。适用于 Gemini 3.6 及以后模型，功能无单独费用，输入输出仍按模型标准计费。 [查看Google原文](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)
+- **Microsoft Copilot 接入 GPT-6.2 Sol 和 Astra**（事件日期：2026-11-20）
+  Sol 开始向合资格用户的聊天、Cowork、Studio 及 Word、Excel、PowerPoint 推出。Astra 在 Cowork 和 Studio 开放，聊天与 Office 入口需 Frontier 资格，可用范围因组织和地区而异。 [查看Microsoft原文](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot/4574229)
 
-- **Amazon Connect 正式上线 Resolutions 业务处理功能**（事件日期：2026-11-19）
-  管理员可用自然语言或操作规范生成处理计划，明确业务规则和审批阈值。智能体据此跨应用处理退款、争议等请求，人工接手审批与例外，并保留行动和决策记录。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/)
+- **Amazon Transcribe 新增同步音频转写接口**（事件日期：2026-11-20）
+  新增 TranscribeAudio 同步接口，提交完整音频即可在同次响应中获取转写，支持中文、自动语言识别、说话人分离和词级时间戳。支持最长 1 小时音频，可直接提交或从 S3 读取。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/)
 
 [查看资讯归档 →](AI_NEWS.md) · [个人网站资讯栏目 →](https://wangyangjuan.surge.sh/#news)
 <!-- ai-news:end -->

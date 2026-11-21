@@ -2,6 +2,25 @@
 
 以官方原文为主要来源，分别记录整理日期与事件日期。
 
+## 2026-11-21
+
+整理日期：**2026-11-21** · 关注 AI 产品、模型与工具动态。
+
+- **Thinking Machines 开放 Inkling 2 Mini 图文模型权重**（事件日期：2026-11-20）
+  可接收图像和文字并输出文字，支持最多 100 万 token 上下文，权重采用 Apache 2.0 许可。官方提供 Apple 芯片与 NVIDIA 等平台的本地部署指引。 [查看Thinking Machines Lab原文](https://thinkingmachines.ai/model-card/inkling-2-mini/)
+
+- **ChatGPT Space 开始向 Plus 用户开放**（事件日期：2026-11-20）
+  全球 18 岁以上 Plus 用户正逐步获得 Space，可创建交互页面、整理文件并协作编辑。共享对象也需有 Space 使用资格和相应权限，演示文稿功能按账号逐步开放。 [查看OpenAI原文](https://help.openai.com/en/articles/20001549-getting-started-with-space-in-chatgpt)
+
+- **OpenAI Agents SDK 预览 Codex 后端接入**（事件日期：2026-11-20）
+  新增可按次运行选择的 Codex 后端，支持 Python 工具、流式输出和类型化结果，可复用已有 Codex 登录。当前为 v1.0.0-alpha.1 预发布版，安装包通过 GitHub Releases 提供。 [查看OpenAI原文](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1)
+
+- **Microsoft Copilot 接入 GPT-6.2 Sol 和 Astra**（事件日期：2026-11-20）
+  Sol 开始向合资格用户的聊天、Cowork、Studio 及 Word、Excel、PowerPoint 推出。Astra 在 Cowork 和 Studio 开放，聊天与 Office 入口需 Frontier 资格，可用范围因组织和地区而异。 [查看Microsoft原文](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot/4574229)
+
+- **Amazon Transcribe 新增同步音频转写接口**（事件日期：2026-11-20）
+  新增 TranscribeAudio 同步接口，提交完整音频即可在同次响应中获取转写，支持中文、自动语言识别、说话人分离和词级时间戳。支持最长 1 小时音频，可直接提交或从 S3 读取。 [查看AWS原文](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/)
+
 ## 2026-11-20
 
 整理日期：**2026-11-20** · 关注 AI 产品、模型与工具动态。
